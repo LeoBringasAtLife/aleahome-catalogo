@@ -1,148 +1,75 @@
-<!DOCTYPE html>
-<html lang="es-AR">
+﻿<!DOCTYPE html>
+<html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="AleaHome | Saphirus - Fragancias premium para transformar tus espacios.">
-  <title>AleaHome | Saphirus</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <script src="main.js" defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AleaHome | Catalogo Saphirus</title>
+    
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="site-header" id="inicio">
-    <div class="container nav-wrap">
-      <a href="#inicio" class="brand" aria-label="Ir al inicio">AleaHome <span>| Saphirus</span></a>
 
-      <button class="nav-toggle" type="button" aria-label="Abrir menu" aria-controls="mainNav" aria-expanded="false">
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
-
-      <nav id="mainNav" class="main-nav" aria-label="Navegacion principal">
-        <a href="#inicio">Inicio</a>
-        <a href="#catalogo" title="Fragancias, Difusores, Textiles y mas">Productos</a>
-        <a href="#contacto">Contacto</a>
-        <a href="#sobre">Sobre nosotros</a>
-      </nav>
-    </div>
-  </header>
-
-  <section class="hero" aria-label="Presentacion principal">
-    <div class="hero-overlay"></div>
-    <div class="container hero-content">
-      <p class="hero-kicker">Boutique de aromas para hogar y oficina</p>
-      <h1>Transform&aacute; tus espacios con aromas &uacute;nicos</h1>
-      <p>
-        Descubr&iacute; fragancias que generan bienestar, personalidad y recuerdos.
-        Eleg&iacute; tu l&iacute;nea favorita y elev&aacute; cada ambiente.
-      </p>
-      <div class="hero-actions">
-        <a href="#catalogo" class="btn btn-primary">Ver Cat&aacute;logo</a>
-        <a href="#contacto" class="btn btn-ghost">Contactar</a>
-      </div>
-    </div>
-  </section>
-
-  <main>
-    <section id="catalogo" class="catalog-section">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker">Cat&aacute;logo interactivo</p>
-          <h2>Eleg&iacute; tus productos por categor&iacute;a</h2>
-          <p>Filtr&aacute; por tipo de producto y consult&aacute; por WhatsApp en un clic.</p>
+    <header>
+        <div class="container header-content">
+            <a href="#" class="logo">AleaHome</a>
+            <nav>
+                <ul class="nav-list">
+                    <li class="nav-dropdown">
+                        <button
+                            type="button"
+                            class="catalog-toggle"
+                            id="catalog-toggle"
+                            aria-expanded="false"
+                            aria-controls="catalog-menu"
+                        >
+                            Catalogo
+                            <span class="material-symbols-outlined catalog-toggle-icon" aria-hidden="true">expand_more</span>
+                        </button>
+                        <div class="catalog-menu" id="catalog-menu"></div>
+                    </li>
+                    <li><a href="#contacto">Contacto</a></li>
+                    <li><a href="#promos">Promos</a></li>
+                </ul>
+            </nav>
         </div>
+    </header>
 
-        <div class="filter-bar" aria-label="Filtros de productos">
-          <div class="filter-group">
-            <label for="categoryFilter">Categor&iacute;a</label>
-            <select id="categoryFilter">
-              <option value="all">Todas</option>
-            </select>
-          </div>
-
-          <div class="filter-group filter-search">
-            <label for="searchInput">Buscar</label>
-            <input id="searchInput" type="search" placeholder="Ej: difusor lino" autocomplete="off">
-          </div>
+    <section class="hero">
+        <div class="container">
+            <h1>Esencia y Hogar</h1>
+            <p>Descubri fragancias, limpieza y bienestar para cada ambiente. Elegi una linea del catalogo y vas a ver solo los productos relacionados.</p>
         </div>
-
-        <div id="categoryChips" class="chips" aria-label="Categorias disponibles"></div>
-
-        <div id="productsGrid" class="products-grid" aria-live="polite"></div>
-        <p id="emptyState" class="empty-state" hidden>No se encontraron productos con esos filtros.</p>
-      </div>
     </section>
 
-    <section id="sobre" class="about-section">
-      <div class="container about-grid">
-        <div>
-          <p class="section-kicker">Sobre AleaHome</p>
-          <h2>Aromas que hacen sentir hogar</h2>
-          <p>
-            En AleaHome seleccionamos l&iacute;neas Saphirus con foco en calidad, duraci&oacute;n
-            y dise&ntilde;o. Te ayudamos a elegir la fragancia ideal para cada rinc&oacute;n.
-          </p>
-        </div>
-        <div class="about-cards">
-          <article>
-            <h3>Selecci&oacute;n cuidada</h3>
-            <p>Productos elegidos para una experiencia arom&aacute;tica premium.</p>
-          </article>
-          <article>
-            <h3>Asesoramiento real</h3>
-            <p>Te recomendamos opciones seg&uacute;n ambiente y estilo de uso.</p>
-          </article>
-          <article>
-            <h3>Compra simple</h3>
-            <p>Consult&aacute; por WhatsApp y coordin&aacute; entrega o retiro.</p>
-          </article>
-        </div>
-      </div>
+    <main id="catalogo" class="container">
+        <p id="active-filter-label" class="active-filter-label">Todos</p>
+        <div class="product-grid" id="product-container"></div>
+    </main>
+
+    <!-- Sección de "PROMO" -->
+    <section>
+        <!-- Vacio -->
     </section>
-  </main>
 
-  <footer id="contacto" class="site-footer">
-    <div class="container footer-grid">
-      <div>
-        <h3>AleaHome | Saphirus</h3>
-        <p>Fragancias para transformar cada espacio.</p>
-      </div>
-
-      <div>
-        <h4>Contacto</h4>
-        <ul>
-          <li><a href="https://wa.me/5491111111111" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
-          <li><a href="mailto:aleahome@email.com">aleahome@email.com</a></li>
-          <li>Buenos Aires, Argentina</li>
-        </ul>
-      </div>
-
-      <div>
-        <h4>Redes</h4>
-        <ul>
-          <li><a href="#" aria-label="Instagram">Instagram</a></li>
-          <li><a href="#" aria-label="Facebook">Facebook</a></li>
-          <li><a href="#" aria-label="TikTok">TikTok</a></li>
-        </ul>
-      </div>
-
-      <div>
-        <h4>Medios de pago</h4>
-        <div class="payment-tags">
-          <span>Transferencia</span>
-          <span>Mercado Pago</span>
-          <span>Efectivo</span>
+    <footer id="contacto">
+        <div class="container">
+            <div class="footer-logo">AleaHome</div>
+            <p>Tu hogar, tu esencia.</p>
+            <div class="social-links">
+                <a href="https://instagram.com/aleahome_">Instagram</a>
+                <a href="https://wa.link/e00gp9">WhatsApp</a>
+            </div>
+            <p class="copyright">&copy; 2026 AleaHome.</p>
         </div>
-      </div>
-    </div>
+    </footer>
 
-    <div class="footer-bottom">
-      <p>&copy; <span id="year"></span> AleaHome. Todos los derechos reservados.</p>
-    </div>
-  </footer>
+    <script type="module" src="js/main.js?v=20260225-1"></script>
 </body>
 </html>

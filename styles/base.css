@@ -1,0 +1,48 @@
+:root {
+    --bg-color: #eceadb;
+    --secondary-bg: #c2c3af;
+    --accent-light: #9a9c85;
+    --accent-medium: #6e735f;
+    --text-dark: #434a35;
+    --white: #ffffff;
+}
+
+::selection {
+    background-color: var(--text-dark);
+    color: var(--bg-color);
+}
+
+::-moz-selection {
+    background-color: var(--text-dark);
+    color: var(--bg-color);
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-dark);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
