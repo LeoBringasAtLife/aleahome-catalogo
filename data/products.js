@@ -1,4 +1,4 @@
-export const PRODUCTS = [
+Ôªøexport const PRODUCTS =[
     {
         "id":  1,
         "slug":  "aerosol-[clean-cotton]",
@@ -9,7 +9,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "CreaciÛn delicada y refrescante con toques frutados levemente dulces en la salida, acompaÒada de un corazÛn floral acuoso sobre un fondo c·lido amaderado.",
+        "description":  "Creaci√≥n delicada y refrescante con toques frutados levemente dulces en la salida, acompa√±ada de un coraz√≥n floral acuoso sobre un fondo c√°lido amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
@@ -24,7 +24,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia de notas afrutadas de mango, anan· y frutos tropicales que conforman un delicioso aroma dulce y fresco.",
+        "description":  "Fragancia de notas afrutadas de mango, anan√° y frutos tropicales que conforman un delicioso aroma dulce y fresco.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/2-aerosol-mango.jpg"
@@ -39,7 +39,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia floral amaderada conformada por flores silvestres y peonÌas que descansan en un fondo fresco amaderado.",
+        "description":  "Fragancia floral amaderada conformada por flores silvestres y peon√≠as que descansan en un fondo fresco amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/3-aerosol-peonias-y-cedro.jpg"
@@ -54,7 +54,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia amaderada con una combinaciÛn de cedro, ·mbar, patchouly y notas de salida de pomelo y cardamomo.",
+        "description":  "Fragancia amaderada con una combinaci√≥n de cedro, √°mbar, patchouly y notas de salida de pomelo y cardamomo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/4-aerosol-wanted.jpg"
@@ -62,14 +62,14 @@ export const PRODUCTS = [
     {
         "id":  5,
         "slug":  "aerosol-[sandia-pepino]",
-        "name":  "Aerosol Saphirus - SandÌa Pepino",
+        "name":  "Aerosol Saphirus - Sand√≠a Pepino",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Mix frutal con salida de notas frescas de sandÌa y pepino. CorazÛn con car·cter de sutiles frutos rojos y lirios del valle, cerrando con una calidez de vainilla y almizcle.",
+        "description":  "Mix frutal con salida de notas frescas de sand√≠a y pepino. Coraz√≥n con car√°cter de sutiles frutos rojos y lirios del valle, cerrando con una calidez de vainilla y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/5-aerosol-sandia-pepino.jpg"
@@ -84,7 +84,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Potente aroma cÌtrico caracterizado por la frescura del pomelo rosado y la combinaciÛn de notas cÌtricas del limÛn y la naranja silvestre.",
+        "description":  "Potente aroma c√≠trico caracterizado por la frescura del pomelo rosado y la combinaci√≥n de notas c√≠tricas del lim√≥n y la naranja silvestre.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/6-aerosol-pomelo-rosado.jpg"
@@ -114,7 +114,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una esencia distinguida que surge de notas de una lavanda arom·tica con sutiles aromas de estragÛn y eucaliptus.",
+        "description":  "Una esencia distinguida que surge de notas de una lavanda arom√°tica con sutiles aromas de estrag√≥n y eucaliptus.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/8-aerosol-lavanda-y-te-verde.jpg"
@@ -137,14 +137,14 @@ export const PRODUCTS = [
     {
         "id":  10,
         "slug":  "aerosol-[cafe-au-chocolat]",
-        "name":  "Aerosol Saphirus - CafÈ au Chocolat",
+        "name":  "Aerosol Saphirus - Caf√© au Chocolat",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "IncreÌble fragancia con una sofisticada combinaciÛn de granos de cafÈ de Honduras y cacao africano.",
+        "description":  "Incre√≠ble fragancia con una sofisticada combinaci√≥n de granos de caf√© de Honduras y cacao africano.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/10-aerosol-cafe-au-chocolat.jpg"
@@ -204,7 +204,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una composiciÛn armoniosa que fusiona en el corazÛn acordes florales de jazmÌn fresco, flores de lavanda, naranja y menta.",
+        "description":  "Una composici√≥n armoniosa que fusiona en el coraz√≥n acordes florales de jazm√≠n fresco, flores de lavanda, naranja y menta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/14-aerosol-antitabaco.jpg"
@@ -219,7 +219,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia intensa y diferente. Notas Frutadas, banana, flores suaves y delicadas juegan para dar vida a esta creaciÛn energizante.",
+        "description":  "Fragancia intensa y diferente. Notas Frutadas, banana, flores suaves y delicadas juegan para dar vida a esta creaci√≥n energizante.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/15-aerosol-mix-tropical.jpg"
@@ -227,14 +227,14 @@ export const PRODUCTS = [
     {
         "id":  16,
         "slug":  "aerosol-[coco-maracuya]",
-        "name":  "Aerosol Saphirus - Coco Maracuy·",
+        "name":  "Aerosol Saphirus - Coco Maracuy√°",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Colorida y divertida. Una fragancia que estimula los sentidos con notas tropicales de maracuy· y coco. Con notas dulces, frutadas, vainillas y maderas blancas dan un conjunto persistente y energÈtico.",
+        "description":  "Colorida y divertida. Una fragancia que estimula los sentidos con notas tropicales de maracuy√° y coco. Con notas dulces, frutadas, vainillas y maderas blancas dan un conjunto persistente y energ√©tico.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/16-aerosol-coco-maracuya.jpg"
@@ -249,7 +249,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia floral aldehÌdica en combinaciÛn con notas de flores blancas y Peonias, posee un fondo de vainilla musk y notas polvorosas.",
+        "description":  "Fragancia floral aldeh√≠dica en combinaci√≥n con notas de flores blancas y Peonias, posee un fondo de vainilla musk y notas polvorosas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/17-aerosol-breeze.jpg"
@@ -264,7 +264,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia ˙nica, distinguida e inspirada en un majestuoso palacio porteÒo de la dÈcada del 30, que al olerla provoca que todos nuestros sentidos se transporten a una Època dorada de Buenos Aires. Destacan a este aroma las notas a especias, nobles maderas, chauchas de vainilla y almizcles.",
+        "description":  "Fragancia √∫nica, distinguida e inspirada en un majestuoso palacio porte√±o de la d√©cada del 30, que al olerla provoca que todos nuestros sentidos se transporten a una √©poca dorada de Buenos Aires. Destacan a este aroma las notas a especias, nobles maderas, chauchas de vainilla y almizcles.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/18-aerosol-palace.jpg"
@@ -272,14 +272,14 @@ export const PRODUCTS = [
     {
         "id":  19,
         "slug":  "aerosol-[limon-dulce-y-vainilla]",
-        "name":  "Aerosol Saphirus - LimÛn Dulce y Vainilla",
+        "name":  "Aerosol Saphirus - Lim√≥n Dulce y Vainilla",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "CreaciÛn con un arranque fascinante de limÛn Eureka California muy utilizado en la aromaterapia antigua por sus propiedades energizantes.",
+        "description":  "Creaci√≥n con un arranque fascinante de lim√≥n Eureka California muy utilizado en la aromaterapia antigua por sus propiedades energizantes.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/19-aerosol-limon-dulce-y-vainilla.jpg"
@@ -294,7 +294,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia oriental amaderada con notas de salida frescas como el eucaliptus y laurel en complemento con las notas cÌtricas, generando una sensaciÛn de frescura y placer.",
+        "description":  "Fragancia oriental amaderada con notas de salida frescas como el eucaliptus y laurel en complemento con las notas c√≠tricas, generando una sensaci√≥n de frescura y placer.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/20-aerosol-new-york.jpg"
@@ -309,7 +309,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia cÌtrica especiada con aroma intenso, exÛtico y equilibrado. Con acordes especiados que lo convierten en ˙nico en su estilo.",
+        "description":  "Fragancia c√≠trica especiada con aroma intenso, ex√≥tico y equilibrado. Con acordes especiados que lo convierten en √∫nico en su estilo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/21-aerosol-naranja-pimienta.jpg"
@@ -324,7 +324,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una combinaciÛn explosiva de frutilla con notas dulces que hacen de esta fragancia un aroma s˙per divertido y difusivo en el ambiente.",
+        "description":  "Una combinaci√≥n explosiva de frutilla con notas dulces que hacen de esta fragancia un aroma s√∫per divertido y difusivo en el ambiente.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/22-aerosol-frutilla.jpg"
@@ -339,7 +339,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Embriagadora fragancia amaderada con mezcla de notas bals·micas y orientales que energiza y sorprende dejando un persistente aroma en el ambiente.",
+        "description":  "Embriagadora fragancia amaderada con mezcla de notas bals√°micas y orientales que energiza y sorprende dejando un persistente aroma en el ambiente.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/23-aerosol-palo-santo.jpg"
@@ -347,14 +347,14 @@ export const PRODUCTS = [
     {
         "id":  24,
         "slug":  "aerosol-[cristobal]",
-        "name":  "Aerosol Saphirus - CristÛbal",
+        "name":  "Aerosol Saphirus - Crist√≥bal",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una deliciosa mezcla de coco caribeÒo, flor de vainilla y piÒa madura Revelando un corazÛn floral rosado fresco equilibrado con un fondo bals·mico almizclado que seduce los sentidos.",
+        "description":  "Una deliciosa mezcla de coco caribe√±o, flor de vainilla y pi√±a madura Revelando un coraz√≥n floral rosado fresco equilibrado con un fondo bals√°mico almizclado que seduce los sentidos.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/24-aerosol-cristobal.jpg"
@@ -369,7 +369,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m·gicamente por las fresias, con un corazÛn muguet, flores blancas y manzana. Sobre un fondo almizclado frutal ·mbar con una presencia sutil en tonalidades c·lidas, dulces y delicadas que envuelven todas sus etapas.",
+        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m√°gicamente por las fresias, con un coraz√≥n muguet, flores blancas y manzana. Sobre un fondo almizclado frutal √°mbar con una presencia sutil en tonalidades c√°lidas, dulces y delicadas que envuelven todas sus etapas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/25-aerosol-magnolia-y-fresias.jpg"
@@ -384,7 +384,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "FusiÛn de notas cÌtricas de bergamota y limÛn sobre un corazÛn amable donde se dan cita la rosa y las orquÌdeas con un fondo ambarado.",
+        "description":  "Fusi√≥n de notas c√≠tricas de bergamota y lim√≥n sobre un coraz√≥n amable donde se dan cita la rosa y las orqu√≠deas con un fondo ambarado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/26-aerosol-paula.jpg"
@@ -399,7 +399,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Floral cÌtrica, radiante, con un corazÛn floreciente de jazmÌn y notas verdes, un fondo c·lido de tonalidades ambarinas y almizcladas.",
+        "description":  "Floral c√≠trica, radiante, con un coraz√≥n floreciente de jazm√≠n y notas verdes, un fondo c√°lido de tonalidades ambarinas y almizcladas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/27-aerosol-mery.jpg"
@@ -414,7 +414,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Refinada composiciÛn gourmet inspirada en la tradiciÛn inglesa del five o\u0027clock tea en la zona del Big Ben. Su agradable aroma es la conjunciÛn de los mejores Blends seleccionados y acordes cÌtricos predominando inconfundiblemente el limÛn de california. Todo esto lo hacen ˙nico en su estilo.",
+        "description":  "Refinada composici√≥n gourmet inspirada en la tradici√≥n inglesa del five o\u0027clock tea en la zona del Big Ben. Su agradable aroma es la conjunci√≥n de los mejores Blends seleccionados y acordes c√≠tricos predominando inconfundiblemente el lim√≥n de california. Todo esto lo hacen √∫nico en su estilo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/28-aerosol-london.jpg"
@@ -429,7 +429,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Planta arom·tica con diversas aplicaciones de cuyo tallo y hojas emana un agradable perfume cÌtrico.",
+        "description":  "Planta arom√°tica con diversas aplicaciones de cuyo tallo y hojas emana un agradable perfume c√≠trico.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/29-aerosol-citronella.jpg"
@@ -444,7 +444,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Exquisita nota floral, apolvada, que recuerda la delicada fragancia de un jabÛn cremoso.",
+        "description":  "Exquisita nota floral, apolvada, que recuerda la delicada fragancia de un jab√≥n cremoso.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/30-aerosol-duvet.jpg"
@@ -474,7 +474,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Sofisticada y deliciosa fragancia, resultado de la combinaciÛn de las m·s exquisitas notas de cafÈ, cacao, vainilla y especias.",
+        "description":  "Sofisticada y deliciosa fragancia, resultado de la combinaci√≥n de las m√°s exquisitas notas de caf√©, cacao, vainilla y especias.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/32-aerosol-cappuccino.jpg"
@@ -497,14 +497,14 @@ export const PRODUCTS = [
     {
         "id":  34,
         "slug":  "aerosol-[jazmin]",
-        "name":  "Aerosol Saphirus - JazmÌn",
+        "name":  "Aerosol Saphirus - Jazm√≠n",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una esencia distinguida que surge de notas de una lavanda arom·tica con sutiles aromas de estragÛn y eucaliptus, dejando para el cuerpo un envolvente bouquet de tÈ verde, verbena y flores de manzanilla, todas estas notas descansan sobre un fondo bals·mico y de maderas rubias, una fragancia con mucha salida, relajante y arom·tica.",
+        "description":  "Una esencia distinguida que surge de notas de una lavanda arom√°tica con sutiles aromas de estrag√≥n y eucaliptus, dejando para el cuerpo un envolvente bouquet de t√© verde, verbena y flores de manzanilla, todas estas notas descansan sobre un fondo bals√°mico y de maderas rubias, una fragancia con mucha salida, relajante y arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/34-aerosol-jazmin.jpg"
@@ -519,7 +519,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Aroma de notas cÌtricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reciÈn cortadas y la frescura de las olas del mar.",
+        "description":  "Aroma de notas c√≠tricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reci√©n cortadas y la frescura de las olas del mar.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/35-aerosol-marino.jpg"
@@ -542,14 +542,14 @@ export const PRODUCTS = [
     {
         "id":  37,
         "slug":  "aerosol-[bebe]",
-        "name":  "Aerosol Saphirus - BebÈ",
+        "name":  "Aerosol Saphirus - Beb√©",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia cÌtrica floral. La nota de salida est· caracterizada por la combinaciÛn del azahar dulce, c·scara de limÛn y bergamota. El delicado corazÛn floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaciÛn arom·tica.",
+        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia c√≠trica floral. La nota de salida est√° caracterizada por la combinaci√≥n del azahar dulce, c√°scara de lim√≥n y bergamota. El delicado coraz√≥n floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaci√≥n arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/37-aerosol-bebe.jpg"
@@ -572,14 +572,14 @@ export const PRODUCTS = [
     {
         "id":  39,
         "slug":  "aerosol-[guarana]",
-        "name":  "Aerosol Saphirus - Guaran·",
+        "name":  "Aerosol Saphirus - Guaran√°",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "CombinaciÛn tropical energizante de guaran· con la mezcla de la manzana verde, el durazno y los toques cÌtricos del limÛn.",
+        "description":  "Combinaci√≥n tropical energizante de guaran√° con la mezcla de la manzana verde, el durazno y los toques c√≠tricos del lim√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/39-aerosol-guarana.jpg"
@@ -594,7 +594,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una esencia oriental en la que el s·ndalo se mezcla con el delicado aroma de la flor de lirio.",
+        "description":  "Una esencia oriental en la que el s√°ndalo se mezcla con el delicado aroma de la flor de lirio.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/40-aerosol-oriente.jpg"
@@ -624,7 +624,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Din·mica y energÈtica mezcla de cÌtricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, limÛn y bergamota; en el corazÛn se destacan las notas cÌtricas aldehÌdicas y la c·scara de naranja acompaÒado de un tierno bouquet frutado.",
+        "description":  "Din√°mica y energ√©tica mezcla de c√≠tricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, lim√≥n y bergamota; en el coraz√≥n se destacan las notas c√≠tricas aldeh√≠dicas y la c√°scara de naranja acompa√±ado de un tierno bouquet frutado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/42-aerosol-linah.jpg"
@@ -632,14 +632,14 @@ export const PRODUCTS = [
     {
         "id":  43,
         "slug":  "aerosol-[rocio]",
-        "name":  "Aerosol Saphirus - RocÌo",
+        "name":  "Aerosol Saphirus - Roc√≠o",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Fresca fragancia floral donde se destacan el tÌpico y delicado olor a ropa limpia, la combinaciÛn de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
+        "description":  "Inspirado en fragancia de reconocida marca. Fresca fragancia floral donde se destacan el t√≠pico y delicado olor a ropa limpia, la combinaci√≥n de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/43-aerosol-rocio.jpg"
@@ -669,7 +669,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Una sutil fragancia sensual con notas de salida mandarina pomelo y azafr·n corazÛn de lirio orquÌdea e ylang y un fondo de cedro, vainilla y almizcle blanco.",
+        "description":  "Inspirado en fragancia de reconocida marca. Una sutil fragancia sensual con notas de salida mandarina pomelo y azafr√°n coraz√≥n de lirio orqu√≠dea e ylang y un fondo de cedro, vainilla y almizcle blanco.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/45-aerosol-angel.jpg"
@@ -684,7 +684,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia floral compuesta por pÈtalos aterciopelados de violetas combinados con flores blancas y hojas verdes que le dan una personalidad caracterÌstica y propia.",
+        "description":  "Fragancia floral compuesta por p√©talos aterciopelados de violetas combinados con flores blancas y hojas verdes que le dan una personalidad caracter√≠stica y propia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/46-aerosol-violetas.jpg"
@@ -714,7 +714,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia floral compuesta por pÈtalos de rosa natural con connotaciones frescas amaderadas y polvorosas.",
+        "description":  "Fragancia floral compuesta por p√©talos de rosa natural con connotaciones frescas amaderadas y polvorosas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/48-aerosol-rosas.jpg"
@@ -722,14 +722,14 @@ export const PRODUCTS = [
     {
         "id":  49,
         "slug":  "aerosol-[miel-y-limon]",
-        "name":  "Aerosol Saphirus - Miel y LimÛn",
+        "name":  "Aerosol Saphirus - Miel y Lim√≥n",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Refinado y dulce acorde arom·tico cÌtrico que en su salida revela el suave limÛn California envuelto en un tenue acorde fresco con un corazÛn ligero de vainilla caramelo, dando paso a un fondo floral almizclado alimonado.",
+        "description":  "Refinado y dulce acorde arom√°tico c√≠trico que en su salida revela el suave lim√≥n California envuelto en un tenue acorde fresco con un coraz√≥n ligero de vainilla caramelo, dando paso a un fondo floral almizclado alimonado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/49-aerosol-miel-y-limon.jpg"
@@ -744,7 +744,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "ComposiciÛn con notas de salida exÛticas y potentes que van dando lugar a tiernos acordes cÌtricos dejando un persistente aroma floral verde especiado.",
+        "description":  "Composici√≥n con notas de salida ex√≥ticas y potentes que van dando lugar a tiernos acordes c√≠tricos dejando un persistente aroma floral verde especiado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/50-aerosol-green.jpg"
@@ -759,7 +759,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Salida fresca acu·tica y agreste que anuncian un corazÛn de loto acu·tico, algunas notas florales, helecho acu·tico y un fondo de madera.",
+        "description":  "Salida fresca acu√°tica y agreste que anuncian un coraz√≥n de loto acu√°tico, algunas notas florales, helecho acu√°tico y un fondo de madera.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/51-aerosol-lola.jpg"
@@ -774,7 +774,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Fragancia fina masculina que denota su car·cter intenso con notas maderosas orientales y cÌtricas.",
+        "description":  "Inspirado en fragancia de reconocida marca. Fragancia fina masculina que denota su car√°cter intenso con notas maderosas orientales y c√≠tricas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/52-aerosol-faren.jpg"
@@ -797,14 +797,14 @@ export const PRODUCTS = [
     {
         "id":  54,
         "slug":  "aerosol-[maracuya]",
-        "name":  "Aerosol Saphirus - Maracuy·",
+        "name":  "Aerosol Saphirus - Maracuy√°",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "ExcÈntrica fragancia con notas como la vainilla, durazno, bergamota y almizcles. Siendo fragancias cÌtricasflorales que nos envuelven de una manera deliciosa.",
+        "description":  "Exc√©ntrica fragancia con notas como la vainilla, durazno, bergamota y almizcles. Siendo fragancias c√≠tricasflorales que nos envuelven de una manera deliciosa.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/54-aerosol-maracuya.jpg"
@@ -849,7 +849,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Elegante fragancia que nos envuelve con notas florales frescas, manzanas rojas y frutos patagÛnicos y nos relaja con notas almizcladas, maderosas y amber.",
+        "description":  "Inspirado en fragancia de reconocida marca. Elegante fragancia que nos envuelve con notas florales frescas, manzanas rojas y frutos patag√≥nicos y nos relaja con notas almizcladas, maderosas y amber.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/57-aerosol-blue.jpg"
@@ -864,7 +864,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Aroma frutado, con tonos rojos y toques de manzanas y peras silvestres, acompaÒada de una fina canela natural chocolatosa.",
+        "description":  "Aroma frutado, con tonos rojos y toques de manzanas y peras silvestres, acompa√±ada de una fina canela natural chocolatosa.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/58-aerosol-manzana-canela.jpg"
@@ -909,10 +909,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Un cÛctel refrescante de notas cÌtricas, dominado por la naranja dulce y chispeantes notas aldehÌdicas refuerza y redondea su aroma. El corazÛn de naranja valencia viene acompaÒado por notas alimonadas florales especiadas. El fondo dulce amaderado almizclado.",
+        "description":  "Un c√≥ctel refrescante de notas c√≠tricas, dominado por la naranja dulce y chispeantes notas aldeh√≠dicas refuerza y redondea su aroma. El coraz√≥n de naranja valencia viene acompa√±ado por notas alimonadas florales especiadas. El fondo dulce amaderado almizclado.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  62,
@@ -924,10 +924,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Fragancia frutal con acentos tropicales y efervescentes. El corazÛn una nota fresca de durazno acompaÒada por una mezcla frutal equilibrada con destellos de coco, flores blancas y violetas. La base dulce vainillada almizclada completan la composiciÛn.",
+        "description":  "Inspirado en fragancia de reconocida marca. Fragancia frutal con acentos tropicales y efervescentes. El coraz√≥n una nota fresca de durazno acompa√±ada por una mezcla frutal equilibrada con destellos de coco, flores blancas y violetas. La base dulce vainillada almizclada completan la composici√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  63,
@@ -939,10 +939,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Intensa fragancia de coco combinada con chauchas de vainilla envueltas en una nota l·ctea que las aglutina.",
+        "description":  "Intensa fragancia de coco combinada con chauchas de vainilla envueltas en una nota l√°ctea que las aglutina.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  64,
@@ -954,10 +954,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Explosivo mix cÌtrico fresco, con una salida de c·scara de naranja y limÛn verde apoyado en un corazÛn floral a base de jazmÌn.",
+        "description":  "Explosivo mix c√≠trico fresco, con una salida de c√°scara de naranja y lim√≥n verde apoyado en un coraz√≥n floral a base de jazm√≠n.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  65,
@@ -972,7 +972,7 @@ export const PRODUCTS = [
         "description":  "Una salida frutal dulce matizada con maderas de violeta, agua de azahar y frutillas especiadas.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  66,
@@ -984,10 +984,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Envolvente bouquet floral basado en el exquisito aroma de jazmÌn y la cl·sica rosa resaltados por una salida aldehÌdica y levemente frutal. El fondo se presenta amaderado y c·lido gracias al pachuli y el cedro.",
+        "description":  "Envolvente bouquet floral basado en el exquisito aroma de jazm√≠n y la cl√°sica rosa resaltados por una salida aldeh√≠dica y levemente frutal. El fondo se presenta amaderado y c√°lido gracias al pachuli y el cedro.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  67,
@@ -999,10 +999,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Arom·tica y potente fragancia frutal donde prevalece el aroma de la papaya brasileÒa.",
+        "description":  "Arom√°tica y potente fragancia frutal donde prevalece el aroma de la papaya brasile√±a.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  68,
@@ -1014,7 +1014,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de JazmÌn y OrquÌdea que le agregan suavidad y clase a la composiciÛn. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
+        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de Jazm√≠n y Orqu√≠dea que le agregan suavidad y clase a la composici√≥n. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/aerosol-vainilla-tonka.jpg"
@@ -1037,17 +1037,17 @@ export const PRODUCTS = [
     {
         "id":  70,
         "slug":  "aerosol-[melon]",
-        "name":  "Aerosol Saphirus - MelÛn",
+        "name":  "Aerosol Saphirus - Mel√≥n",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Deliciosa fragancia frutada que se muestra principalmente con un exquisito aroma a melÛn acompaÒado de notas verdes.",
+        "description":  "Deliciosa fragancia frutada que se muestra principalmente con un exquisito aroma a mel√≥n acompa√±ado de notas verdes.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  71,
@@ -1059,22 +1059,22 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Exquisita fragancia cÌtrica dulce, con una salida de mandarina dulce floral con toques especiados bals·micos, difundiendo un aroma cÌtrico fresco persistente ligeramente almizclado especiado.",
+        "description":  "Exquisita fragancia c√≠trica dulce, con una salida de mandarina dulce floral con toques especiados bals√°micos, difundiendo un aroma c√≠trico fresco persistente ligeramente almizclado especiado.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  72,
         "slug":  "aerosol-[limon]",
-        "name":  "Aerosol Saphirus - LimÛn",
+        "name":  "Aerosol Saphirus - Lim√≥n",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia cÌtrica verde, muy fresca, con toques de flor de naranja. Excelente difusiÛn y persistencia dejando un aroma limpio y agradable.",
+        "description":  "Fragancia c√≠trica verde, muy fresca, con toques de flor de naranja. Excelente difusi√≥n y persistencia dejando un aroma limpio y agradable.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/aerosol-limon-dulce-y-vainilla.jpg"
@@ -1089,7 +1089,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Cl·sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazmÌn que acompaÒan y suavizan la nota principal de la composiciÛn. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
+        "description":  "Cl√°sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazm√≠n que acompa√±an y suavizan la nota principal de la composici√≥n. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/aerosoles/aerosol-lavanda-y-te-verde.jpg"
@@ -1104,25 +1104,25 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Potente aroma floral dulce y fresco. En la salida el aroma del ciclamen y gardenia envuelto en la frescura de la flor de naranjo dulce deja paso a un difusivo aroma a flores de orquÌdea, jazmÌn e ylang ylang que se combinan con un dulce b·lsamo almizclado de fondo.",
+        "description":  "Potente aroma floral dulce y fresco. En la salida el aroma del ciclamen y gardenia envuelto en la frescura de la flor de naranjo dulce deja paso a un difusivo aroma a flores de orqu√≠dea, jazm√≠n e ylang ylang que se combinan con un dulce b√°lsamo almizclado de fondo.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  75,
         "slug":  "aerosol-[fantasia]",
-        "name":  "Aerosol Saphirus - FantasÌa",
+        "name":  "Aerosol Saphirus - Fantas√≠a",
         "brand":  "SAPHIRUS",
         "category":  "Aerosoles",
         "line":  "aerosoles",
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Una fragancia cÌtrica y frutal con acentos tropicales y efervescentes.",
+        "description":  "Una fragancia c√≠trica y frutal con acentos tropicales y efervescentes.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  76,
@@ -1134,10 +1134,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Aroma elegante y masculino, se inicia con notas suaves, verdes ligeramente arom·ticas. Albahaca, Hierbas cÌtricas y mandarina van dejando progresivamente lugar al floral muguet con toques amber. En el fondo, la madera de s·ndalo se combina con el almizcle, Patchouly y Vetiver.",
+        "description":  "Inspirado en fragancia de reconocida marca. Aroma elegante y masculino, se inicia con notas suaves, verdes ligeramente arom√°ticas. Albahaca, Hierbas c√≠tricas y mandarina van dejando progresivamente lugar al floral muguet con toques amber. En el fondo, la madera de s√°ndalo se combina con el almizcle, Patchouly y Vetiver.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  77,
@@ -1149,10 +1149,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. ComposiciÛn de salida muy fresca gracias a sus notas cÌtricas de bergamota y flor de naranjo. Su cuerpo se destaca por sus acordes florales de jazmÌn y muguet que se funden con un fondo de vainilla, maderas de s·ndalo y cedro, agreg·ndole personalidad y distinciÛn a la fragancia.",
+        "description":  "Inspirado en fragancia de reconocida marca. Composici√≥n de salida muy fresca gracias a sus notas c√≠tricas de bergamota y flor de naranjo. Su cuerpo se destaca por sus acordes florales de jazm√≠n y muguet que se funden con un fondo de vainilla, maderas de s√°ndalo y cedro, agreg√°ndole personalidad y distinci√≥n a la fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  78,
@@ -1164,10 +1164,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Muy agradable y difusiva fragancia infantil que explota con bergamota y notas verdes en su salida. Sus Flores blancas y notas de rosa de Bulgaria se entrelazan con el almizcle, las maderas de cedro y vainilla para formar un c·lido y persistente fondo.",
+        "description":  "Muy agradable y difusiva fragancia infantil que explota con bergamota y notas verdes en su salida. Sus Flores blancas y notas de rosa de Bulgaria se entrelazan con el almizcle, las maderas de cedro y vainilla para formar un c√°lido y persistente fondo.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  79,
@@ -1179,10 +1179,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y anÌs, juntos con el jazmÌn, y s·ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris.",
+        "description":  "Inspirado en fragancia de reconocida marca. Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y an√≠s, juntos con el jazm√≠n, y s√°ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  80,
@@ -1194,10 +1194,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Fragancia de la familia olfativa cÌtrica Gourmand, contiene notas de naranjas aldehÌdicas con un mix de chocolate blanco y oscuro.",
+        "description":  "Fragancia de la familia olfativa c√≠trica Gourmand, contiene notas de naranjas aldeh√≠dicas con un mix de chocolate blanco y oscuro.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  81,
@@ -1209,10 +1209,10 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "Delicioso acorde cÌtrico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
+        "description":  "Delicioso acorde c√≠trico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  82,
@@ -1224,7 +1224,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Es una fragancia floral dulce con toda la suavidad del pistacho y la dulzura del caramelo, juntos forman esta exquisita esencia con un toque gourmet acompaÒados con notas de vainilla y jazmin.",
+        "description":  "Es una fragancia floral dulce con toda la suavidad del pistacho y la dulzura del caramelo, juntos forman esta exquisita esencia con un toque gourmet acompa√±ados con notas de vainilla y jazmin.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/82-saphirus-textil-pistacho-caramel.jpg"
@@ -1239,7 +1239,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Es una deliciosa, fresca y moderna mezcla de cÌtricos mediterr·neos y frutas dulces sobre una base oriental c·lida y sensual.",
+        "description":  "Es una deliciosa, fresca y moderna mezcla de c√≠tricos mediterr√°neos y frutas dulces sobre una base oriental c√°lida y sensual.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/83-saphirus-textil-textil-erba.jpg"
@@ -1254,7 +1254,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia floral aldehÌdica en combinaciÛn con notas de flores blancas y Peonias, posee un fondo de vainilla musk y notas polvorosas.",
+        "description":  "Fragancia floral aldeh√≠dica en combinaci√≥n con notas de flores blancas y Peonias, posee un fondo de vainilla musk y notas polvorosas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/84-saphirus-textil-breeze.jpg"
@@ -1269,7 +1269,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Salvaje es una fragancia audaz y revitalizante de la familia olfativa arom·tica FougËre, diseÒada exclusivamente para hombres que buscan destacar con un aroma ˙nico y poderoso.",
+        "description":  "Salvaje es una fragancia audaz y revitalizante de la familia olfativa arom√°tica Foug√®re, dise√±ada exclusivamente para hombres que buscan destacar con un aroma √∫nico y poderoso.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/85-saphirus-textil-salvaje.jpg"
@@ -1284,7 +1284,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "IncreÌble fragancia cÌtrica y especiada, conformada por bergamota, eucalipto y vegetales que, junto a su corazÛn floral de jazmines y gardenias, le dan a esta fragancia una personalidad indescriptible.",
+        "description":  "Incre√≠ble fragancia c√≠trica y especiada, conformada por bergamota, eucalipto y vegetales que, junto a su coraz√≥n floral de jazmines y gardenias, le dan a esta fragancia una personalidad indescriptible.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/86-saphirus-textil-bergamota-cedro.jpg"
@@ -1299,7 +1299,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia floral amaderada conformada por flores silvestres y peonÌas que descansan en un fondo fresco amaderado.",
+        "description":  "Fragancia floral amaderada conformada por flores silvestres y peon√≠as que descansan en un fondo fresco amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/87-saphirus-textil-peonias-cedro.jpg"
@@ -1314,7 +1314,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Mezcla atractiva y original de fresia azul, clementina dulce y suaves pÈtalos de violeta.",
+        "description":  "Mezcla atractiva y original de fresia azul, clementina dulce y suaves p√©talos de violeta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/88-saphirus-textil-fresias-bergamota.jpg"
@@ -1329,7 +1329,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Sofisticada fragancia de car·cter ˙nico, con notas avainilladas, dulces y almendradas que dan como resultado un aroma sexy y embriagador.",
+        "description":  "Sofisticada fragancia de car√°cter √∫nico, con notas avainilladas, dulces y almendradas que dan como resultado un aroma sexy y embriagador.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/89-saphirus-textil-hypnotic-scent.jpg"
@@ -1344,7 +1344,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Destacada por sus explosivas notas cÌtricas de salida y un destello frutal de manzana que le aporta frescura y personalidad.",
+        "description":  "Destacada por sus explosivas notas c√≠tricas de salida y un destello frutal de manzana que le aporta frescura y personalidad.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/90-saphirus-textil-yourself.jpg"
@@ -1352,14 +1352,14 @@ export const PRODUCTS = [
     {
         "id":  91,
         "slug":  "Saphirus Textil [petalos-de-orquideas]",
-        "name":  "Saphirus Textil PÈtalos de OrquÌdeas 250ml",
+        "name":  "Saphirus Textil P√©talos de Orqu√≠deas 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia dulce y delicada de orquÌdeas y frutos rojos combinadas con un mix de flores blancas y musk.",
+        "description":  "Fragancia dulce y delicada de orqu√≠deas y frutos rojos combinadas con un mix de flores blancas y musk.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/91-saphirus-textil-petalos-de-orquideas.jpg"
@@ -1374,7 +1374,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Delicioso mix de flores silvestres que, junto a las frescas notas de salida de naranja y melocotÛn, descansan en un fondo oriental aterciopelado.",
+        "description":  "Delicioso mix de flores silvestres que, junto a las frescas notas de salida de naranja y melocot√≥n, descansan en un fondo oriental aterciopelado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/92-saphirus-textil-flores-silvestres.jpg"
@@ -1382,14 +1382,14 @@ export const PRODUCTS = [
     {
         "id":  93,
         "slug":  "Saphirus Textil [sandalo-y-violetas]",
-        "name":  "Saphirus Textil S·ndalo y Violetas 250ml",
+        "name":  "Saphirus Textil S√°ndalo y Violetas 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Compuesta por violetas y lavanda combinadas con un corazÛn de maderas orientales, le brindan a esta fragancia una personalidad ˙nica.",
+        "description":  "Compuesta por violetas y lavanda combinadas con un coraz√≥n de maderas orientales, le brindan a esta fragancia una personalidad √∫nica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/93-saphirus-textil-sandalo-y-violetas.jpg"
@@ -1397,14 +1397,14 @@ export const PRODUCTS = [
     {
         "id":  94,
         "slug":  "Saphirus Textil [limon]",
-        "name":  "Saphirus Textil LimÛn 250ml",
+        "name":  "Saphirus Textil Lim√≥n 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia cÌtrica verde, muy fresca, con toques de flor de naranja. Excelente difusiÛn y persistencia dejando un aroma limpio y agradable.",
+        "description":  "Fragancia c√≠trica verde, muy fresca, con toques de flor de naranja. Excelente difusi√≥n y persistencia dejando un aroma limpio y agradable.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/94-saphirus-textil-limon.jpg"
@@ -1464,7 +1464,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Cl·sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazmÌn que acompaÒan y suavizan la nota principal de la composiciÛn. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
+        "description":  "Cl√°sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazm√≠n que acompa√±an y suavizan la nota principal de la composici√≥n. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/98-saphirus-textil-lavanda.jpg"
@@ -1479,7 +1479,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Muy agradable y difusiva fragancia infantil que explota con bergamota y notas verdes en su salida. Sus Flores blancas y notas de rosa de Bulgaria se entrelazan con el almizcle, las maderas de cedro y vainilla para formar un c·lido y persistente fondo.",
+        "description":  "Muy agradable y difusiva fragancia infantil que explota con bergamota y notas verdes en su salida. Sus Flores blancas y notas de rosa de Bulgaria se entrelazan con el almizcle, las maderas de cedro y vainilla para formar un c√°lido y persistente fondo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/99-saphirus-textil-cony.jpg"
@@ -1494,7 +1494,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de JazmÌn y OrquÌdea que le agregan suavidad y clase a la composiciÛn. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
+        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de Jazm√≠n y Orqu√≠dea que le agregan suavidad y clase a la composici√≥n. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/100-saphirus-textil-vainilla.jpg"
@@ -1509,7 +1509,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Potente aroma floral dulce y fresco. En la salida el aroma del ciclamen y gardenia envuelto en la frescura de la flor de naranjo dulce deja paso a un difusivo aroma a flores de orquÌdea, jazmÌn e ylang ylang que se combinan con un dulce b·lsamo almizclado de fondo.",
+        "description":  "Potente aroma floral dulce y fresco. En la salida el aroma del ciclamen y gardenia envuelto en la frescura de la flor de naranjo dulce deja paso a un difusivo aroma a flores de orqu√≠dea, jazm√≠n e ylang ylang que se combinan con un dulce b√°lsamo almizclado de fondo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/101-saphirus-textil-flores-blancas.jpg"
@@ -1524,7 +1524,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Salida fresca acu·tica y agreste que anuncian un corazÛn de loto acu·tico, algunas notas florales, helecho acu·tico y un fondo de madera.",
+        "description":  "Salida fresca acu√°tica y agreste que anuncian un coraz√≥n de loto acu√°tico, algunas notas florales, helecho acu√°tico y un fondo de madera.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/102-saphirus-textil-lola.jpg"
@@ -1539,7 +1539,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Intensa fragancia de coco combinada con chauchas de vainilla envueltas en una nota l·ctea que las aglutina.",
+        "description":  "Intensa fragancia de coco combinada con chauchas de vainilla envueltas en una nota l√°ctea que las aglutina.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/103-saphirus-textil-coco-vai.jpg"
@@ -1554,7 +1554,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Arom·tica y potente fragancia frutal donde prevalece el aroma de la papaya brasileÒa.",
+        "description":  "Arom√°tica y potente fragancia frutal donde prevalece el aroma de la papaya brasile√±a.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/104-saphirus-textil-papaya.jpg"
@@ -1577,14 +1577,14 @@ export const PRODUCTS = [
     {
         "id":  106,
         "slug":  "Saphirus Textil [rocio]",
-        "name":  "Saphirus Textil RocÌo 250ml",
+        "name":  "Saphirus Textil Roc√≠o 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Fresca fragancia floral donde se destacan el tÌpico y delicado olor a ropa limpia, la combinaciÛn de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
+        "description":  "Inspirado en fragancia de reconocida marca. Fresca fragancia floral donde se destacan el t√≠pico y delicado olor a ropa limpia, la combinaci√≥n de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/106-saphirus-textil-rocio.jpg"
@@ -1599,7 +1599,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Din·mica y energÈtica mezcla de cÌtricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, limÛn y bergamota; en el corazÛn se destacan las notas cÌtricas aldehÌdicas y la c·scara de naranja acompaÒado de un tierno bouquet frutado.",
+        "description":  "Din√°mica y energ√©tica mezcla de c√≠tricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, lim√≥n y bergamota; en el coraz√≥n se destacan las notas c√≠tricas aldeh√≠dicas y la c√°scara de naranja acompa√±ado de un tierno bouquet frutado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/107-saphirus-textil-linah.jpg"
@@ -1607,14 +1607,14 @@ export const PRODUCTS = [
     {
         "id":  108,
         "slug":  "Saphirus Textil [bebe]",
-        "name":  "Saphirus Textil BebÈ 250ml",
+        "name":  "Saphirus Textil Beb√© 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia cÌtrica floral. La nota de salida est· caracterizada por la combinaciÛn del azahar dulce, c·scara de limÛn y bergamota. El delicado corazÛn floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaciÛn arom·tica.",
+        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia c√≠trica floral. La nota de salida est√° caracterizada por la combinaci√≥n del azahar dulce, c√°scara de lim√≥n y bergamota. El delicado coraz√≥n floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaci√≥n arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/108-saphirus-textil-bebe.jpg"
@@ -1629,7 +1629,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Una sutil fragancia sensual con notas de salida mandarina pomelo y azafr·n corazÛn de lirio orquÌdea e ylang y un fondo de cedro, vainilla y almizcle blanco.",
+        "description":  "Inspirado en fragancia de reconocida marca. Una sutil fragancia sensual con notas de salida mandarina pomelo y azafr√°n coraz√≥n de lirio orqu√≠dea e ylang y un fondo de cedro, vainilla y almizcle blanco.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/109-saphirus-textil-angel.jpg"
@@ -1637,14 +1637,14 @@ export const PRODUCTS = [
     {
         "id":  110,
         "slug":  "Saphirus Textil [jazmin]",
-        "name":  "Saphirus Textil JazmÌn 250ml",
+        "name":  "Saphirus Textil Jazm√≠n 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Una esencia distinguida que surge de notas de una lavanda arom·tica con sutiles aromas de estragÛn y eucaliptus, dejando para el cuerpo un envolvente bouquet de tÈ verde, verbena y flores de manzanilla, todas estas notas descansan sobre un fondo bals·mico y de maderas rubias, una fragancia con mucha salida, relajante y arom·tica.",
+        "description":  "Una esencia distinguida que surge de notas de una lavanda arom√°tica con sutiles aromas de estrag√≥n y eucaliptus, dejando para el cuerpo un envolvente bouquet de t√© verde, verbena y flores de manzanilla, todas estas notas descansan sobre un fondo bals√°mico y de maderas rubias, una fragancia con mucha salida, relajante y arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/110-saphirus-textil-jazmin.jpg"
@@ -1659,7 +1659,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "ComposiciÛn con notas de salida exÛticas y potentes que van dando lugar a tiernos acordes cÌtricos dejando un persistente aroma floral verde especiado.",
+        "description":  "Composici√≥n con notas de salida ex√≥ticas y potentes que van dando lugar a tiernos acordes c√≠tricos dejando un persistente aroma floral verde especiado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/111-saphirus-textil-green.jpg"
@@ -1689,7 +1689,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Exquisita nota floral, apolvada, que recuerda la delicada fragancia de un jabÛn cremoso.",
+        "description":  "Exquisita nota floral, apolvada, que recuerda la delicada fragancia de un jab√≥n cremoso.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/113-saphirus-textil-duvet.jpg"
@@ -1704,7 +1704,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Floral cÌtrica, radiante, con un corazÛn floreciente de jazmÌn y notas verdes, un fondo c·lido de tonalidades ambarinas y almizcladas.",
+        "description":  "Floral c√≠trica, radiante, con un coraz√≥n floreciente de jazm√≠n y notas verdes, un fondo c√°lido de tonalidades ambarinas y almizcladas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/114-saphirus-textil-mery.jpg"
@@ -1712,14 +1712,14 @@ export const PRODUCTS = [
     {
         "id":  115,
         "slug":  "Saphirus Textil [maracuya]",
-        "name":  "Saphirus Textil Maracuy· 250ml",
+        "name":  "Saphirus Textil Maracuy√° 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "ExcÈntrica fragancia con notas como la vainilla, durazno, bergamota y almizcles. Siendo fragancias cÌtricasflorales que nos envuelven de una manera deliciosa.",
+        "description":  "Exc√©ntrica fragancia con notas como la vainilla, durazno, bergamota y almizcles. Siendo fragancias c√≠tricasflorales que nos envuelven de una manera deliciosa.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/115-saphirus-textil-maracuya.jpg"
@@ -1734,7 +1734,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Delicioso acorde cÌtrico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
+        "description":  "Delicioso acorde c√≠trico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/116-saphirus-textil-verbena.jpg"
@@ -1749,7 +1749,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m·gicamente por las fresias, con un corazÛn muguet, flores blancas y manzana. Sobre un fondo almizclado frutal ·mbar con una presencia sutil en tonalidades c·lidas, dulces y delicadas que envuelven todas sus etapas.",
+        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m√°gicamente por las fresias, con un coraz√≥n muguet, flores blancas y manzana. Sobre un fondo almizclado frutal √°mbar con una presencia sutil en tonalidades c√°lidas, dulces y delicadas que envuelven todas sus etapas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/117-saphirus-textil-magnolia-fresias.jpg"
@@ -1757,14 +1757,14 @@ export const PRODUCTS = [
     {
         "id":  118,
         "slug":  "Saphirus Textil [frutos-patagonicos]",
-        "name":  "Saphirus Textil Frutos PatagÛnicos 250ml",
+        "name":  "Saphirus Textil Frutos Patag√≥nicos 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Mix de frutos patagÛnicos y tropicales. En su cuerpo, muy sensiblemente se puede percibir una nota cremosa a canela culminando con acordes ambarados.",
+        "description":  "Mix de frutos patag√≥nicos y tropicales. En su cuerpo, muy sensiblemente se puede percibir una nota cremosa a canela culminando con acordes ambarados.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/118-saphirus-textil-frutos-patagonicos.png"
@@ -1779,7 +1779,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Una combinaciÛn explosiva de frutilla con notas dulces que hacen de esta de esta fragancia un aroma s˙per divertido y difusivo en el ambiente.",
+        "description":  "Una combinaci√≥n explosiva de frutilla con notas dulces que hacen de esta de esta fragancia un aroma s√∫per divertido y difusivo en el ambiente.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/119-saphirus-textil-frutilla.jpg"
@@ -1794,7 +1794,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Un perfume woody-fresh por excelencia. Las maderas exÛticas se engalanan de frescor con un bamb˙ azul degradado para una nueva y sorprendente sensaciÛn.",
+        "description":  "Un perfume woody-fresh por excelencia. Las maderas ex√≥ticas se engalanan de frescor con un bamb√∫ azul degradado para una nueva y sorprendente sensaci√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/120-saphirus-textil-teakwood.jpg"
@@ -1809,7 +1809,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Potente aroma cÌtrico caracterizado por la frescura del pomelo rosado y la combinaciÛn de notas cÌtricas del limÛn y la naranja silvestre.",
+        "description":  "Potente aroma c√≠trico caracterizado por la frescura del pomelo rosado y la combinaci√≥n de notas c√≠tricas del lim√≥n y la naranja silvestre.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/121-saphirus-textil-pomelo-rosado.jpg"
@@ -1854,7 +1854,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia inspirada en el mundo del vino. Frutos rojos y negros, como la ciruela y la mora, son envueltos por una nota de cedro y roble donde las especias dulces juegan un papel principal mentolado y pino con una base de almizcle blanco , cedro texas y s·ndalo.",
+        "description":  "Fragancia inspirada en el mundo del vino. Frutos rojos y negros, como la ciruela y la mora, son envueltos por una nota de cedro y roble donde las especias dulces juegan un papel principal mentolado y pino con una base de almizcle blanco , cedro texas y s√°ndalo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/124-saphirus-textil-cereza-malbec.jpg"
@@ -1869,7 +1869,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Una composiciÛn armoniosa que fusiona en el corazÛn acordes florales de jazmÌn fresco, flores de lavanda, naranja y menta.",
+        "description":  "Una composici√≥n armoniosa que fusiona en el coraz√≥n acordes florales de jazm√≠n fresco, flores de lavanda, naranja y menta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/125-saphirus-textil-antitabaco.jpg"
@@ -1884,7 +1884,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia ˙nica, distinguida e inspirada en un majestuoso palacio porteÒo de la dÈcada del 30, que al olerla provoca que todos nuestros sentidos se transporten a una Època dorada de Buenos Aires. Destacan a este aroma las notas a especias, nobles maderas, chauchas de vainilla y almizcles.",
+        "description":  "Fragancia √∫nica, distinguida e inspirada en un majestuoso palacio porte√±o de la d√©cada del 30, que al olerla provoca que todos nuestros sentidos se transporten a una √©poca dorada de Buenos Aires. Destacan a este aroma las notas a especias, nobles maderas, chauchas de vainilla y almizcles.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/126-saphirus-textil-palace.jpg"
@@ -1892,14 +1892,14 @@ export const PRODUCTS = [
     {
         "id":  127,
         "slug":  "Saphirus Textil [limon-dulce-y-vainilla]",
-        "name":  "Saphirus Textil LimÛn Dulce y Vainilla 250ml",
+        "name":  "Saphirus Textil Lim√≥n Dulce y Vainilla 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "CreaciÛn con un arranque fascinante de limÛn Eureka California muy utilizado en la aromaterapia antigua por sus propiedades energizantes.",
+        "description":  "Creaci√≥n con un arranque fascinante de lim√≥n Eureka California muy utilizado en la aromaterapia antigua por sus propiedades energizantes.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/127-saphirus-textil-limon-dulce-y-vainilla.jpg"
@@ -1914,7 +1914,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia oriental amaderada con notas de salida frescas como el eucaliptus y laurel en complemento con las notas cÌtricas, generando una sensaciÛn de frescura y placer.",
+        "description":  "Fragancia oriental amaderada con notas de salida frescas como el eucaliptus y laurel en complemento con las notas c√≠tricas, generando una sensaci√≥n de frescura y placer.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/128-saphirus-textil-new-york.jpg"
@@ -1929,7 +1929,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia que nos presenta en su salida sus notas frutales m·s representativas que son la manzana y el anan·. En su cuerpo de perfecta redondez se combinan notas florales como el jazmÌn y el lirio, junto a notas frutales gourmand.",
+        "description":  "Fragancia que nos presenta en su salida sus notas frutales m√°s representativas que son la manzana y el anan√°. En su cuerpo de perfecta redondez se combinan notas florales como el jazm√≠n y el lirio, junto a notas frutales gourmand.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/129-saphirus-textil-lucy.jpg"
@@ -1944,7 +1944,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Aroma de notas cÌtricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reciÈn cortadas y la frescura de las olas del mar.",
+        "description":  "Aroma de notas c√≠tricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reci√©n cortadas y la frescura de las olas del mar.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/130-saphirus-textil-marino.jpg"
@@ -1959,7 +1959,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Una esencia oriental en la que el s·ndalo se mezcla con el delicado aroma de la flor de lirio.",
+        "description":  "Una esencia oriental en la que el s√°ndalo se mezcla con el delicado aroma de la flor de lirio.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/131-saphirus-textil-oriente.jpg"
@@ -1974,7 +1974,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia amaderada con una combinaciÛn de cedro, ambar, patchouly y notas de salida de pomelo y cardamomo.",
+        "description":  "Fragancia amaderada con una combinaci√≥n de cedro, ambar, patchouly y notas de salida de pomelo y cardamomo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/132-saphirus-textil-wanted.jpg"
@@ -1989,7 +1989,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia cÌtrica especiada con aroma intenso, exÛtico y equilibrado. Con acordes especiados que lo convierten en ˙nico en su estilo.",
+        "description":  "Fragancia c√≠trica especiada con aroma intenso, ex√≥tico y equilibrado. Con acordes especiados que lo convierten en √∫nico en su estilo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/133-saphirus-textil-naranja-pimienta.jpg"
@@ -2004,7 +2004,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Lilas captura el espÌritu de la primavera y hace que dure. Teje una delicada historia de frutas frescas, flores ricas y delicados pÈtalos. Una fragancia delicada y potente, inspirada en una fina combinaciÛn de ingredientes de perfumerÌa que traen en su salida notas verdes, frescas y armoniosas, un cuerpo suculento de flores blancas con su protagonista ìlilaî y un bouquet de jazmÌn, madreselva y toques de muguet. En el fondo podemos encontrar sutiles maderas que se sostienen en un almizcle persistente.",
+        "description":  "Lilas captura el esp√≠ritu de la primavera y hace que dure. Teje una delicada historia de frutas frescas, flores ricas y delicados p√©talos. Una fragancia delicada y potente, inspirada en una fina combinaci√≥n de ingredientes de perfumer√≠a que traen en su salida notas verdes, frescas y armoniosas, un cuerpo suculento de flores blancas con su protagonista ‚Äúlila‚Äù y un bouquet de jazm√≠n, madreselva y toques de muguet. En el fondo podemos encontrar sutiles maderas que se sostienen en un almizcle persistente.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/134-saphirus-textil-lilas.jpg"
@@ -2019,7 +2019,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia de la familia olfativa Floral, Frutal gourmand. Se inicia con frutas combinadas pasando a un acorde ´aldehÌdico lirioª. Creado en torno al lirio, el corazÛn devela efluvios de jazmÌn y flor de azahar. El fondo oriental y muy goloso es el resultado de la uniÛn de la vainilla, el haba tonka, el pralinÈ y el pachuli.",
+        "description":  "Fragancia de la familia olfativa Floral, Frutal gourmand. Se inicia con frutas combinadas pasando a un acorde ¬´aldeh√≠dico lirio¬ª. Creado en torno al lirio, el coraz√≥n devela efluvios de jazm√≠n y flor de azahar. El fondo oriental y muy goloso es el resultado de la uni√≥n de la vainilla, el haba tonka, el pralin√© y el pachuli.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/135-saphirus-textil-bella.jpg"
@@ -2027,14 +2027,14 @@ export const PRODUCTS = [
     {
         "id":  136,
         "slug":  "Saphirus Textil [cristobal]",
-        "name":  "Saphirus Textil CristÛbal 250ml",
+        "name":  "Saphirus Textil Crist√≥bal 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Una deliciosa mezcla de coco caribeÒo, flor de vainilla y piÒa madura Revelando un corazÛn floral rosado fresco equilibrado con un fondo bals·mico almizclado que seduce los sentidos.",
+        "description":  "Una deliciosa mezcla de coco caribe√±o, flor de vainilla y pi√±a madura Revelando un coraz√≥n floral rosado fresco equilibrado con un fondo bals√°mico almizclado que seduce los sentidos.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/136-saphirus-textil-cristobal.jpg"
@@ -2064,7 +2064,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "FusiÛn de notas cÌtricas de bergamota y limÛn sobre un corazÛn amable donde se dan cita la rosa y las orquÌdeas con un fondo ambarado.",
+        "description":  "Fusi√≥n de notas c√≠tricas de bergamota y lim√≥n sobre un coraz√≥n amable donde se dan cita la rosa y las orqu√≠deas con un fondo ambarado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/138-saphirus-textil-paula.jpg"
@@ -2094,7 +2094,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Es una fragancia fina masculina con un car·cter ˙nico que la distingue por sobre otras por su frescura, mix de frutas acuosas combinadas con maderas seleccionadas de Medio Oriente y flores silvestres.",
+        "description":  "Es una fragancia fina masculina con un car√°cter √∫nico que la distingue por sobre otras por su frescura, mix de frutas acuosas combinadas con maderas seleccionadas de Medio Oriente y flores silvestres.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/140-saphirus-textil-man.jpg"
@@ -2109,7 +2109,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Perfume de salida herbal, con un corazÛn que deja una agradable impresiÛn de cuero y tabaco, mientras la mezcla de vetiver, musgo de roble y patchouly le dan una tradicional base chipre a la composiciÛn, creando un producto con car·cter intenso.",
+        "description":  "Perfume de salida herbal, con un coraz√≥n que deja una agradable impresi√≥n de cuero y tabaco, mientras la mezcla de vetiver, musgo de roble y patchouly le dan una tradicional base chipre a la composici√≥n, creando un producto con car√°cter intenso.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/141-saphirus-textil-polo.jpg"
@@ -2169,7 +2169,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Fragancia fina masculina que denota su car·cter intenso con notas maderosas orientales y cÌtricas.",
+        "description":  "Inspirado en fragancia de reconocida marca. Fragancia fina masculina que denota su car√°cter intenso con notas maderosas orientales y c√≠tricas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/145-saphirus-textil-faren.jpg"
@@ -2184,7 +2184,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. ComposiciÛn de salida muy fresca gracias a sus notas cÌtricas de bergamota y flor de naranjo. Su cuerpo se destaca por sus acordes florales de jazmÌn y muguet que se funden con un fondo de vainilla, maderas de s·ndalo y cedro, agreg·ndole personalidad y distinciÛn a la fragancia.",
+        "description":  "Inspirado en fragancia de reconocida marca. Composici√≥n de salida muy fresca gracias a sus notas c√≠tricas de bergamota y flor de naranjo. Su cuerpo se destaca por sus acordes florales de jazm√≠n y muguet que se funden con un fondo de vainilla, maderas de s√°ndalo y cedro, agreg√°ndole personalidad y distinci√≥n a la fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/146-saphirus-textil-daniel.jpg"
@@ -2199,7 +2199,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Elegante fragancia que nos envuelve con notas florales frescas, manzanas rojas y frutos patagÛnicos y nos relaja con notas almizcladas, maderosas y amber.",
+        "description":  "Inspirado en fragancia de reconocida marca. Elegante fragancia que nos envuelve con notas florales frescas, manzanas rojas y frutos patag√≥nicos y nos relaja con notas almizcladas, maderosas y amber.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/147-saphirus-textil-blue.jpg"
@@ -2207,14 +2207,14 @@ export const PRODUCTS = [
     {
         "id":  148,
         "slug":  "Saphirus Textil [guarana]",
-        "name":  "Saphirus Textil Guaran· 250ml",
+        "name":  "Saphirus Textil Guaran√° 250ml",
         "brand":  "SAPHIRUS",
         "category":  "Textiles",
         "line":  "textiles",
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "CombinaciÛn tropical energizante de guaran· con la mezcla de la manzana verde, el durazno y los toques cÌtricos del limÛn.",
+        "description":  "Combinaci√≥n tropical energizante de guaran√° con la mezcla de la manzana verde, el durazno y los toques c√≠tricos del lim√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/148-saphirus-textil-guarana.jpg"
@@ -2229,7 +2229,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Envolvente bouquet floral basado en el exquisito aroma de jazmÌn y la cl·sica rosa resaltados por una salida aldehÌdica y levemente frutal. El fondo se presenta amaderado y c·lido gracias al pachuli y el cedro.",
+        "description":  "Envolvente bouquet floral basado en el exquisito aroma de jazm√≠n y la cl√°sica rosa resaltados por una salida aldeh√≠dica y levemente frutal. El fondo se presenta amaderado y c√°lido gracias al pachuli y el cedro.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/149-saphirus-textil-patio.jpg"
@@ -2244,7 +2244,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y anÌs, juntos con el jazmÌn, y s·ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris.",
+        "description":  "Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y an√≠s, juntos con el jazm√≠n, y s√°ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/150-saphirus-textil-amour.jpg"
@@ -2259,7 +2259,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Aroma elegante y masculino, se inicia con notas suaves, verdes ligeramente arom·ticas. Albahaca, Hierbas cÌtricas y mandarina van dejando progresivamente lugar al floral muguet con toques amber. En el fondo, la madera de s·ndalo se combina con el almizcle, Patchouly y Vetiver.",
+        "description":  "Aroma elegante y masculino, se inicia con notas suaves, verdes ligeramente arom√°ticas. Albahaca, Hierbas c√≠tricas y mandarina van dejando progresivamente lugar al floral muguet con toques amber. En el fondo, la madera de s√°ndalo se combina con el almizcle, Patchouly y Vetiver.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/151-saphirus-textil-etiqueta.jpg"
@@ -2274,7 +2274,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia floral compuesta por pÈtalos aterciopelados de violetas combinados con flores blancas y hojas verdes que le dan una personalidad caracterÌstica y propia.",
+        "description":  "Fragancia floral compuesta por p√©talos aterciopelados de violetas combinados con flores blancas y hojas verdes que le dan una personalidad caracter√≠stica y propia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/152-saphirus-textil-violetas.jpg"
@@ -2289,7 +2289,7 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Fragancia floral compuesta por pÈtalos de rosa natural con connotaciones frescas amaderadas y polvorosas.",
+        "description":  "Fragancia floral compuesta por p√©talos de rosa natural con connotaciones frescas amaderadas y polvorosas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/153-saphirus-textil-rosas.jpg"
@@ -2319,22 +2319,22 @@ export const PRODUCTS = [
         "price":  "$3.400,00",
         "priceValue":  "3.400,00",
         "stock":  "NO",
-        "description":  "Explosivo mix cÌtrico fresco, con una salida de c·scara de naranja y limÛn verde apoyado en un corazÛn floral a base de jazmÌn.",
+        "description":  "Explosivo mix c√≠trico fresco, con una salida de c√°scara de naranja y lim√≥n verde apoyado en un coraz√≥n floral a base de jazm√≠n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/textiles/155-saphirus-textil-citrus.jpg"
     },
     {
         "id":  156,
-        "slug":  "difusor-[sandÌa-pepino]",
-        "name":  "Difusor - SandÌa Pepino",
+        "slug":  "difusor-[sand√≠a-pepino]",
+        "name":  "Difusor - Sand√≠a Pepino",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Mix frutal con salida de notas frescas de sandÌa y pepino. CorazÛn con car·cter de sutiles frutos rojos y lirios del valle, cerrando con una calidez de vainilla y almizcle.",
+        "description":  "Mix frutal con salida de notas frescas de sand√≠a y pepino. Coraz√≥n con car√°cter de sutiles frutos rojos y lirios del valle, cerrando con una calidez de vainilla y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/156-difusor-sandia-pepino.jpg"
@@ -2349,7 +2349,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Exquisita fragancia gourmand de galleta de vainilla. La manteca y las notas de coco tostado acompaÒan al olor del az˙car mascabo y a un fondo avainillado otorg·ndole una personalidad ˙nica que invade nuestros sentidos.",
+        "description":  "Exquisita fragancia gourmand de galleta de vainilla. La manteca y las notas de coco tostado acompa√±an al olor del az√∫car mascabo y a un fondo avainillado otorg√°ndole una personalidad √∫nica que invade nuestros sentidos.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/157-difusor-cookies-cream.jpg"
@@ -2364,7 +2364,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "IncreÌble fragancia cÌtrica y especiada, conformada por bergamota, eucalipto y vegetales que, junto a su corazÛn floral de jazmines y gardenias, le dan a esta fragancia una personalidad indescriptible.",
+        "description":  "Incre√≠ble fragancia c√≠trica y especiada, conformada por bergamota, eucalipto y vegetales que, junto a su coraz√≥n floral de jazmines y gardenias, le dan a esta fragancia una personalidad indescriptible.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/158-difusor-bergamota-cedro.jpg"
@@ -2379,52 +2379,52 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Una combinaciÛn equilibrada de notas frescas y herbales se amalgaman con dulces vainillas y madera blancas.",
+        "description":  "Una combinaci√≥n equilibrada de notas frescas y herbales se amalgaman con dulces vainillas y madera blancas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/159-difusor-lavanda-vainilla.jpg"
     },
     {
         "id":  160,
-        "slug":  "difusor-[pÈtalos-de-orquÌdeas]",
-        "name":  "Difusor - PÈtalos de OrquÌdeas",
+        "slug":  "difusor-[p√©talos-de-orqu√≠deas]",
+        "name":  "Difusor - P√©talos de Orqu√≠deas",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia dulce y delicada de orquÌdeas y frutos rojos combinadas con un mix de flores blancas y musk.",
+        "description":  "Fragancia dulce y delicada de orqu√≠deas y frutos rojos combinadas con un mix de flores blancas y musk.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/160-difusor-petalos-de-orquideas.jpg"
     },
     {
         "id":  161,
-        "slug":  "difusor-[lima-limÛn]",
-        "name":  "Difusor - Lima LimÛn",
+        "slug":  "difusor-[lima-lim√≥n]",
+        "name":  "Difusor - Lima Lim√≥n",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Exquisito aroma a limoncello italiano con una salida ˙nica de ralladura de limÛn y lima. Su corazÛn se sostiene por el limÛn Sorrento y un petit grain, dejando una estela de almizcle y az˙car de caÒa.",
+        "description":  "Exquisito aroma a limoncello italiano con una salida √∫nica de ralladura de lim√≥n y lima. Su coraz√≥n se sostiene por el lim√≥n Sorrento y un petit grain, dejando una estela de almizcle y az√∫car de ca√±a.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/161-difusor-lima-limon.jpg"
     },
     {
         "id":  162,
-        "slug":  "difusor-[melocotÛn-blanco]",
-        "name":  "Difusor - MelocotÛn Blanco",
+        "slug":  "difusor-[melocot√≥n-blanco]",
+        "name":  "Difusor - Melocot√≥n Blanco",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia cÛctel ˙nica en su tipo, inspirada en la bebida Peach Bellini, creada en 1948 en Venecia, Italia. En su salida se presentan notas de melocotÛn blanco acompaÒadas por frescas flores de azahar y un dejo de moras silvestres, culminando con una base ·mbar.",
+        "description":  "Fragancia c√≥ctel √∫nica en su tipo, inspirada en la bebida Peach Bellini, creada en 1948 en Venecia, Italia. En su salida se presentan notas de melocot√≥n blanco acompa√±adas por frescas flores de azahar y un dejo de moras silvestres, culminando con una base √°mbar.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/162-difusor-melocoton-blanco.jpg"
@@ -2439,7 +2439,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "CreaciÛn delicada y refrescante con toques frutados levemente dulces en la salida, acompaÒada de un corazÛn floral acuoso sobre un fondo c·lido amaderado.",
+        "description":  "Creaci√≥n delicada y refrescante con toques frutados levemente dulces en la salida, acompa√±ada de un coraz√≥n floral acuoso sobre un fondo c√°lido amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/163-difusor-clean-cotton.jpg"
@@ -2454,37 +2454,37 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia de notas afrutadas de mango, anan· y frutos tropicales que conforman un delicioso aroma dulce y fresco.",
+        "description":  "Fragancia de notas afrutadas de mango, anan√° y frutos tropicales que conforman un delicioso aroma dulce y fresco.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/164-difusor-mango.jpg"
     },
     {
         "id":  165,
-        "slug":  "difusor-[coco-maracuy·]",
-        "name":  "Difusor - Coco Maracuy·",
+        "slug":  "difusor-[coco-maracuy√°]",
+        "name":  "Difusor - Coco Maracuy√°",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Colorida y divertida. Una fragancia que estimula los sentidos con notas tropicales de maracuy· y coco. Con notas dulces, frutadas, vainillas y maderas blancas dan un conjunto persistente y energÈtico.",
+        "description":  "Colorida y divertida. Una fragancia que estimula los sentidos con notas tropicales de maracuy√° y coco. Con notas dulces, frutadas, vainillas y maderas blancas dan un conjunto persistente y energ√©tico.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/165-difusor-coco-maracuya.jpg"
     },
     {
         "id":  166,
-        "slug":  "difusor-[frutos-patagÛnicos]",
-        "name":  "Difusor - Frutos PatagÛnicos",
+        "slug":  "difusor-[frutos-patag√≥nicos]",
+        "name":  "Difusor - Frutos Patag√≥nicos",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Mix de frutos patagÛnicos y tropicales. En su cuerpo se puede percibir muy sensiblemente una deliciosa nota cremosa a canela culminando con acordes ambarados.",
+        "description":  "Mix de frutos patag√≥nicos y tropicales. En su cuerpo se puede percibir muy sensiblemente una deliciosa nota cremosa a canela culminando con acordes ambarados.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/166-difusor-frutos-patagonicos.jpg"
@@ -2499,7 +2499,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Mezcla atractiva y original de fresia azul, clementina dulce y suaves pÈtalos de violeta.",
+        "description":  "Mezcla atractiva y original de fresia azul, clementina dulce y suaves p√©talos de violeta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/167-difusor-fresias-bergamota.jpg"
@@ -2514,7 +2514,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Una esencia distinguida que surge de notas de una lavanda arom·tica con sutiles aromas de estragÛn y eucaliptus.",
+        "description":  "Una esencia distinguida que surge de notas de una lavanda arom√°tica con sutiles aromas de estrag√≥n y eucaliptus.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/168-difusor-lavanda-y-te-verde.jpg"
@@ -2529,22 +2529,22 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Potente aroma cÌtrico caracterizado por la frescura del pomelo rosado y la combinaciÛn de notas cÌtricas del limÛn y la naranja silvestre.",
+        "description":  "Potente aroma c√≠trico caracterizado por la frescura del pomelo rosado y la combinaci√≥n de notas c√≠tricas del lim√≥n y la naranja silvestre.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/169-difusor-pomelo-rosado.jpg"
     },
     {
         "id":  170,
-        "slug":  "difusor-[cafÈ-au-chocolat]",
-        "name":  "Difusor - CafÈ au Chocolat",
+        "slug":  "difusor-[caf√©-au-chocolat]",
+        "name":  "Difusor - Caf√© au Chocolat",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "IncreÌble fragancia con una sofisticada combinaciÛn de granos de cafÈ de Honduras y cacao africano.",
+        "description":  "Incre√≠ble fragancia con una sofisticada combinaci√≥n de granos de caf√© de Honduras y cacao africano.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/170-difusor-cafe-au-chocolat.jpg"
@@ -2604,7 +2604,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia de la familia olfativa Floral Frutal gourmand. Se inicia con frutas combinadas pasando a un acorde ´aldehÌdico lirioª",
+        "description":  "Fragancia de la familia olfativa Floral Frutal gourmand. Se inicia con frutas combinadas pasando a un acorde ¬´aldeh√≠dico lirio¬ª",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/174-difusor-wella.png"
@@ -2619,22 +2619,22 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia amaderada con una combinaciÛn de cedro, ·mbar, patchouly y notas de salida de pomelo y cardamomo.",
+        "description":  "Fragancia amaderada con una combinaci√≥n de cedro, √°mbar, patchouly y notas de salida de pomelo y cardamomo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/175-difusor-wanted.png"
     },
     {
         "id":  176,
-        "slug":  "difusor-[limÛn-dulce-y-vainilla]",
-        "name":  "Difusor - LimÛn Dulce y Vainilla",
+        "slug":  "difusor-[lim√≥n-dulce-y-vainilla]",
+        "name":  "Difusor - Lim√≥n Dulce y Vainilla",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "CreaciÛn con un arranque fascinante de limÛn Eureka California muy utilizado en la aromaterapia antigua por sus propiedades energizantes.",
+        "description":  "Creaci√≥n con un arranque fascinante de lim√≥n Eureka California muy utilizado en la aromaterapia antigua por sus propiedades energizantes.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/176-difusor-limon-dulce-y-vainilla.jpg"
@@ -2649,7 +2649,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia cÌtrica especiada con aroma intenso, exÛtico y equilibrado. Con acordes especiados que lo convierten en ˙nico en su estilo.",
+        "description":  "Fragancia c√≠trica especiada con aroma intenso, ex√≥tico y equilibrado. Con acordes especiados que lo convierten en √∫nico en su estilo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/177-difusor-naranja-pimienta.jpg"
@@ -2664,22 +2664,22 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Embriagadora fragancia amaderada con mezcla de notas bals·micas y orientales que energiza y sorprende dejando un persistente aroma en el ambiente.",
+        "description":  "Embriagadora fragancia amaderada con mezcla de notas bals√°micas y orientales que energiza y sorprende dejando un persistente aroma en el ambiente.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/178-difusor-palo-santo.jpg"
     },
     {
         "id":  179,
-        "slug":  "difusor-[cristÛbal]",
-        "name":  "Difusor - CristÛbal",
+        "slug":  "difusor-[crist√≥bal]",
+        "name":  "Difusor - Crist√≥bal",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Una deliciosa mezcla de coco caribeÒo, flor de vainilla y piÒa madura Revelando un corazÛn floral rosado fresco equilibrado con un fondo bals·mico almizclado que seduce los sentidos.",
+        "description":  "Una deliciosa mezcla de coco caribe√±o, flor de vainilla y pi√±a madura Revelando un coraz√≥n floral rosado fresco equilibrado con un fondo bals√°mico almizclado que seduce los sentidos.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/179-difusor-cristobal.jpg"
@@ -2694,7 +2694,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "FusiÛn de notas cÌtricas de bergamota y limÛn sobre un corazÛn amable donde se dan cita la rosa y las orquÌdeas con un fondo ambarado.",
+        "description":  "Fusi√≥n de notas c√≠tricas de bergamota y lim√≥n sobre un coraz√≥n amable donde se dan cita la rosa y las orqu√≠deas con un fondo ambarado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/180-difusor-paula.jpg"
@@ -2709,22 +2709,22 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Floral cÌtrica, radiante, con un corazÛn floreciente de jazmÌn y notas verdes, un fondo c·lido de tonalidades ambarinas y almizcladas.",
+        "description":  "Floral c√≠trica, radiante, con un coraz√≥n floreciente de jazm√≠n y notas verdes, un fondo c√°lido de tonalidades ambarinas y almizcladas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/181-difusor-mery.jpg"
     },
     {
         "id":  182,
-        "slug":  "difusor-[rocÌo]",
-        "name":  "Difusor - RocÌo",
+        "slug":  "difusor-[roc√≠o]",
+        "name":  "Difusor - Roc√≠o",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fresca fragancia floral donde se destacan el tÌpico y delicado olor a ropa limpia, la combinaciÛn de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
+        "description":  "Fresca fragancia floral donde se destacan el t√≠pico y delicado olor a ropa limpia, la combinaci√≥n de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/182-difusor-rocio.jpg"
@@ -2739,7 +2739,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m·gicamente por las fresias, con un corazÛn muguet, flores blancas y manzana. Sobre un fondo almizclado frutal ·mbar con una presencia sutil en tonalidades c·lidas, dulces y delicadas que envuelven todas sus etapas.",
+        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m√°gicamente por las fresias, con un coraz√≥n muguet, flores blancas y manzana. Sobre un fondo almizclado frutal √°mbar con una presencia sutil en tonalidades c√°lidas, dulces y delicadas que envuelven todas sus etapas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/183-difusor-magnolia-y-fresias.jpg"
@@ -2754,22 +2754,22 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Refinada composiciÛn gourmet inspirada en la tradiciÛn inglesa del ìfive oíclock teaî en la zona del Big Ben. Su agradable aroma es la conjunciÛn de los mejores Blends seleccionados y acordes cÌtricos predominando inconfundiblemente el limÛn de california. Todo esto lo hacen ˙nico en su estilo.",
+        "description":  "Refinada composici√≥n gourmet inspirada en la tradici√≥n inglesa del ‚Äúfive o‚Äôclock tea‚Äù en la zona del Big Ben. Su agradable aroma es la conjunci√≥n de los mejores Blends seleccionados y acordes c√≠tricos predominando inconfundiblemente el lim√≥n de california. Todo esto lo hacen √∫nico en su estilo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/184-difusor-london.jpg"
     },
     {
         "id":  185,
-        "slug":  "difusor-[maracuy·]",
-        "name":  "Difusor - Maracuy·",
+        "slug":  "difusor-[maracuy√°]",
+        "name":  "Difusor - Maracuy√°",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "ExcÈntrica fragancia con notas como la vainilla, durazno, bergamota y almizcles. Siendo fragancias cÌtricasflorales que nos envuelven de una manera deliciosa.",
+        "description":  "Exc√©ntrica fragancia con notas como la vainilla, durazno, bergamota y almizcles. Siendo fragancias c√≠tricasflorales que nos envuelven de una manera deliciosa.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/185-difusor-maracuya.jpg"
@@ -2806,30 +2806,30 @@ export const PRODUCTS = [
     },
     {
         "id":  188,
-        "slug":  "difusor-[miel-y-limÛn]",
-        "name":  "Difusor - Miel y LimÛn",
+        "slug":  "difusor-[miel-y-lim√≥n]",
+        "name":  "Difusor - Miel y Lim√≥n",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Refinado y dulce acorde arom·tico cÌtrico que en su salida revela el suave limÛn California envuelto en un tenue acorde fresco con un corazÛn ligero de vainilla caramelo, dando paso a un fondo floral almizclado alimonado.",
+        "description":  "Refinado y dulce acorde arom√°tico c√≠trico que en su salida revela el suave lim√≥n California envuelto en un tenue acorde fresco con un coraz√≥n ligero de vainilla caramelo, dando paso a un fondo floral almizclado alimonado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/188-difusor-miel-y-limon.jpg"
     },
     {
         "id":  189,
-        "slug":  "difusor-[melÛn]",
-        "name":  "Difusor - MelÛn",
+        "slug":  "difusor-[mel√≥n]",
+        "name":  "Difusor - Mel√≥n",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Deliciosa fragancia frutada que se muestra principalmente con un exquisito aroma a melÛn acompaÒado de notas verdes.",
+        "description":  "Deliciosa fragancia frutada que se muestra principalmente con un exquisito aroma a mel√≥n acompa√±ado de notas verdes.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/189-difusor-melon.jpg"
@@ -2844,7 +2844,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Planta arom·tica con diversas aplicaciones de cuyo tallo y hojas emana un agradable perfume cÌtrico.",
+        "description":  "Planta arom√°tica con diversas aplicaciones de cuyo tallo y hojas emana un agradable perfume c√≠trico.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/190-difusor-citronella.jpg"
@@ -2859,7 +2859,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Floral cÌtrica, radiante, con un corazÛn floreciente de jazmÌn y notas verdes, un fondo c·lido de tonalidades ambarinas y almizcladas.",
+        "description":  "Floral c√≠trica, radiante, con un coraz√≥n floreciente de jazm√≠n y notas verdes, un fondo c√°lido de tonalidades ambarinas y almizcladas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/191-difusor-flowers.jpg"
@@ -2874,7 +2874,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Aroma de notas cÌtricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reciÈn cortadas y la frescura de las olas del mar.",
+        "description":  "Aroma de notas c√≠tricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reci√©n cortadas y la frescura de las olas del mar.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/192-difusor-marino.jpg"
@@ -2889,7 +2889,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Aroma frutado, con tonos rojos y toques de manzanas y peras silvestres, acompaÒada de una fina canela natural chocolatosa.",
+        "description":  "Aroma frutado, con tonos rojos y toques de manzanas y peras silvestres, acompa√±ada de una fina canela natural chocolatosa.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/193-difusor-manzana-canela.jpg"
@@ -2904,7 +2904,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Fragancia floral compuesta por pÈtalos aterciopelados de violetas combinados con flores blancas y hojas verdes que le dan una personalidad caracterÌstica y propia.",
+        "description":  "Fragancia floral compuesta por p√©talos aterciopelados de violetas combinados con flores blancas y hojas verdes que le dan una personalidad caracter√≠stica y propia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/194-difusor-violetas.jpg"
@@ -2949,7 +2949,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Una salida fresca acu·tica y agreste que anuncian un corazÛn de Loto acu·tico, algunas notas florales, helecho acu·tico y un fondo de madera.",
+        "description":  "Una salida fresca acu√°tica y agreste que anuncian un coraz√≥n de Loto acu√°tico, algunas notas florales, helecho acu√°tico y un fondo de madera.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/197-difusor-lola.jpg"
@@ -2964,7 +2964,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Sofisticada y deliciosa fragancia, resultado de la combinaciÛn de las m·s exquisitas notas de cafÈ, cacao, vainilla y especias.",
+        "description":  "Sofisticada y deliciosa fragancia, resultado de la combinaci√≥n de las m√°s exquisitas notas de caf√©, cacao, vainilla y especias.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/198-difusor-cappuccino.jpg"
@@ -2986,30 +2986,30 @@ export const PRODUCTS = [
     },
     {
         "id":  200,
-        "slug":  "difusor-[guaran·]",
-        "name":  "Difusor - Guaran·",
+        "slug":  "difusor-[guaran√°]",
+        "name":  "Difusor - Guaran√°",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "CombinaciÛn tropical energizante de guaran· con la mezcla de la manzana verde, el durazno y los toques cÌtricos del limÛn.",
+        "description":  "Combinaci√≥n tropical energizante de guaran√° con la mezcla de la manzana verde, el durazno y los toques c√≠tricos del lim√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/200-difusor-guarana.jpg"
     },
     {
         "id":  201,
-        "slug":  "difusor-[bebÈ]",
-        "name":  "Difusor - BebÈ",
+        "slug":  "difusor-[beb√©]",
+        "name":  "Difusor - Beb√©",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia cÌtrica floral. La nota de salida est· caracterizada por la combinaciÛn del azahar dulce, c·scara de limÛn y bergamota. El delicado corazÛn floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaciÛn arom·tica.",
+        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia c√≠trica floral. La nota de salida est√° caracterizada por la combinaci√≥n del azahar dulce, c√°scara de lim√≥n y bergamota. El delicado coraz√≥n floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaci√≥n arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/201-difusor-bebe.jpg"
@@ -3024,22 +3024,22 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Arom·tica y potente fragancia frutal donde prevalece el aroma de la papaya brasileÒa.",
+        "description":  "Arom√°tica y potente fragancia frutal donde prevalece el aroma de la papaya brasile√±a.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/202-difusor-papaya.jpg"
     },
     {
         "id":  203,
-        "slug":  "difusor-[jazmÌn]",
-        "name":  "Difusor - JazmÌn",
+        "slug":  "difusor-[jazm√≠n]",
+        "name":  "Difusor - Jazm√≠n",
         "brand":  "SAPHIRUS",
         "category":  "Difusores",
         "line":  "difusores",
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Una esencia distinguida que surge de notas de una lavanda arom·tica con sutiles aromas de estragÛn y eucaliptus, dejando para el cuerpo un envolvente bouquet de tÈ verde, verbena y flores de manzanilla, todas estas notas descansan sobre un fondo bals·mico y de maderas rubias, una fragancia con mucha salida, relajante y arom·tica.",
+        "description":  "Una esencia distinguida que surge de notas de una lavanda arom√°tica con sutiles aromas de estrag√≥n y eucaliptus, dejando para el cuerpo un envolvente bouquet de t√© verde, verbena y flores de manzanilla, todas estas notas descansan sobre un fondo bals√°mico y de maderas rubias, una fragancia con mucha salida, relajante y arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/203-difusor-jazmin.jpg"
@@ -3054,7 +3054,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "ComposiciÛn con notas de salida exÛticas y potentes que van dando lugar a tiernos acordes cÌtricos dejando un persistente aroma floral verde especiado.",
+        "description":  "Composici√≥n con notas de salida ex√≥ticas y potentes que van dando lugar a tiernos acordes c√≠tricos dejando un persistente aroma floral verde especiado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/204-difusor-green.jpg"
@@ -3084,7 +3084,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Delicioso acorde cÌtrico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
+        "description":  "Delicioso acorde c√≠trico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/206-difusor-verbena.jpg"
@@ -3099,7 +3099,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Envolvente bouquet floral basado en el exquisito aroma de jazmÌn y la cl·sica rosa resaltados por una salida aldehÌdica y levemente frutal. El fondo se presenta amaderado y c·lido gracias al pachuli y el cedro.",
+        "description":  "Envolvente bouquet floral basado en el exquisito aroma de jazm√≠n y la cl√°sica rosa resaltados por una salida aldeh√≠dica y levemente frutal. El fondo se presenta amaderado y c√°lido gracias al pachuli y el cedro.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/207-difusor-patio.jpg"
@@ -3129,7 +3129,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Cl·sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazmÌn que acompaÒan y suavizan la nota principal de la composiciÛn. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
+        "description":  "Cl√°sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazm√≠n que acompa√±an y suavizan la nota principal de la composici√≥n. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/209-difusor-lavanda.jpg"
@@ -3144,7 +3144,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y anÌs, juntos con el jazmÌn, y s·ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris",
+        "description":  "Inspirado en fragancia de reconocida marca. Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y an√≠s, juntos con el jazm√≠n, y s√°ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/210-difusor-amour.jpg"
@@ -3159,7 +3159,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Un cÛctel refrescante de notas cÌtricas, dominado por la naranja dulce y chispeantes notas aldehÌdicas refuerza y redondea su aroma. El corazÛn de naranja valencia viene acompaÒado por notas alimonadas florales especiadas. El fondo dulce amaderado almizclado.",
+        "description":  "Un c√≥ctel refrescante de notas c√≠tricas, dominado por la naranja dulce y chispeantes notas aldeh√≠dicas refuerza y redondea su aroma. El coraz√≥n de naranja valencia viene acompa√±ado por notas alimonadas florales especiadas. El fondo dulce amaderado almizclado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/211-difusor-orange.jpg"
@@ -3174,7 +3174,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de JazmÌn y OrquÌdea que le agregan suavidad y clase a la composiciÛn. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
+        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de Jazm√≠n y Orqu√≠dea que le agregan suavidad y clase a la composici√≥n. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/212-difusor-vainilla.jpg"
@@ -3219,7 +3219,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Una esencia oriental en la que el s·ndalo se mezcla con el delicado aroma de la flor de lirio.",
+        "description":  "Una esencia oriental en la que el s√°ndalo se mezcla con el delicado aroma de la flor de lirio.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/215-difusor-oriente.jpg"
@@ -3234,7 +3234,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Din·mica y energÈtica mezcla de cÌtricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, limÛn y bergamota; en el corazÛn se destacan las notas cÌtricas aldehÌdicas y la c·scara de naranja acompaÒado de un tierno bouquet frutado.",
+        "description":  "Din√°mica y energ√©tica mezcla de c√≠tricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, lim√≥n y bergamota; en el coraz√≥n se destacan las notas c√≠tricas aldeh√≠dicas y la c√°scara de naranja acompa√±ado de un tierno bouquet frutado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/216-difusor-linah.jpg"
@@ -3249,7 +3249,7 @@ export const PRODUCTS = [
         "price":  "$4.300",
         "priceValue":  "4300.00",
         "stock":  "NO",
-        "description":  "Refrescante acorde frutal cuya salida combina el melon, la anan·, sandia, pepino, banana y galbano.",
+        "description":  "Refrescante acorde frutal cuya salida combina el melon, la anan√°, sandia, pepino, banana y galbano.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/difusores/217-difusor-hawai.jpg"
@@ -3279,7 +3279,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fragancia inspirada en el mundo del vino. Frutos rojos y negros, como la ciruela y la mora, son envueltos por una nota de cedro y roble donde las especias dulces juegan un papel principal mentolado y pino con una base de almizcle blanco , cedro texas y s·ndalo.",
+        "description":  "Fragancia inspirada en el mundo del vino. Frutos rojos y negros, como la ciruela y la mora, son envueltos por una nota de cedro y roble donde las especias dulces juegan un papel principal mentolado y pino con una base de almizcle blanco , cedro texas y s√°ndalo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/219-mini-aromatizante-60ml-cereza-malbec.jpg"
@@ -3294,7 +3294,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Una composiciÛn armoniosa que fusiona en el corazÛn acordes florales de jazmÌn fresco, flores de lavanda, naranja y menta.",
+        "description":  "Una composici√≥n armoniosa que fusiona en el coraz√≥n acordes florales de jazm√≠n fresco, flores de lavanda, naranja y menta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/220-mini-aromatizante-60ml-antitabaco.jpg"
@@ -3309,7 +3309,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fragancia amaderada con una combinaciÛn de cedro, ambar, patchouly y notas de salida de pomelo y cardamomo.",
+        "description":  "Fragancia amaderada con una combinaci√≥n de cedro, ambar, patchouly y notas de salida de pomelo y cardamomo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/221-mini-aromatizante-60ml-wanted.jpg"
@@ -3324,7 +3324,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fragancia de la familia olfativa Floral, Frutal gourmand. Se inicia con frutas combinadas pasando a un acorde ´aldehÌdico lirioª. Creado en torno al lirio, el corazÛn devela efluvios de jazmÌn y flor de azahar. El fondo oriental y muy goloso es el resultado de la uniÛn de la vainilla, el haba tonka, el pralinÈ y el pachuli.",
+        "description":  "Fragancia de la familia olfativa Floral, Frutal gourmand. Se inicia con frutas combinadas pasando a un acorde ¬´aldeh√≠dico lirio¬ª. Creado en torno al lirio, el coraz√≥n devela efluvios de jazm√≠n y flor de azahar. El fondo oriental y muy goloso es el resultado de la uni√≥n de la vainilla, el haba tonka, el pralin√© y el pachuli.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/222-mini-aromatizante-60ml-bella.jpg"
@@ -3339,7 +3339,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Delicioso acorde cÌtrico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
+        "description":  "Delicioso acorde c√≠trico enriquecido con notas verdes de higo, menta y lavanda. En el fondo encontramos notas polvorosas de almizcle y vainilla.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/223-mini-aromatizante-60ml-verbena.jpg"
@@ -3354,7 +3354,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de JazmÌn y OrquÌdea que le agregan suavidad y clase a la composiciÛn. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
+        "description":  "Deliciosa y difusiva fragancia vainilla que se presenta con chispas de Jazm√≠n y Orqu√≠dea que le agregan suavidad y clase a la composici√≥n. La nota de clavo de olor en su cuerpo da entrada a sus notas de fondo que se caracterizan por su persistencia, formado por Vainillina, Cumarina y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/224-mini-aromatizante-60ml-vainilla.jpg"
@@ -3391,15 +3391,15 @@ export const PRODUCTS = [
     },
     {
         "id":  227,
-        "slug":  "mini-aromatizante-60ml-[rocÌo]",
-        "name":  "Aromatizante Mini RocÌo 60ml",
+        "slug":  "mini-aromatizante-60ml-[roc√≠o]",
+        "name":  "Aromatizante Mini Roc√≠o 60ml",
         "brand":  "SAPHIRUS",
         "category":  "Mini Aromatizantes",
         "line":  "mini concentrado",
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fresca fragancia floral donde se destacan el tÌpico y delicado olor a ropa limpia, la combinaciÛn de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
+        "description":  "Fresca fragancia floral donde se destacan el t√≠pico y delicado olor a ropa limpia, la combinaci√≥n de notas aldehidicas y la presencia de rosas y flores blancas mezcladas con notas apolvadas y musk determinan la calidad de esta fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/227-mini-aromatizante-60ml-rocio.jpg"
@@ -3429,7 +3429,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "FusiÛn de notas cÌtricas de bergamota y limÛn sobre un corazÛn amable donde se dan cita la rosa y las orquÌdeas con un fondo ambarado.",
+        "description":  "Fusi√≥n de notas c√≠tricas de bergamota y lim√≥n sobre un coraz√≥n amable donde se dan cita la rosa y las orqu√≠deas con un fondo ambarado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/229-mini-aromatizante-60ml-paula.jpg"
@@ -3444,7 +3444,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Arom·tica y potente fragancia frutal donde prevalece el aroma de la papaya brasileÒa.",
+        "description":  "Arom√°tica y potente fragancia frutal donde prevalece el aroma de la papaya brasile√±a.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/230-mini-aromatizante-60ml-papaya.jpg"
@@ -3459,7 +3459,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Una esencia oriental en la que el s·ndalo se mezcla con el delicado aroma de la flor de lirio.",
+        "description":  "Una esencia oriental en la que el s√°ndalo se mezcla con el delicado aroma de la flor de lirio.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/231-mini-aromatizante-60ml-oriente.jpg"
@@ -3474,7 +3474,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Floral cÌtrica, radiante, con un corazÛn floreciente de jazmÌn y notas verdes, un fondo c·lido de tonalidades ambarinas y almizcladas.",
+        "description":  "Floral c√≠trica, radiante, con un coraz√≥n floreciente de jazm√≠n y notas verdes, un fondo c√°lido de tonalidades ambarinas y almizcladas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/232-mini-aromatizante-60ml-mery.jpg"
@@ -3489,7 +3489,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Aroma de notas cÌtricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reciÈn cortadas y la frescura de las olas del mar.",
+        "description":  "Aroma de notas c√≠tricas, herbales y marinas donde se destacan las flores de azahar, las hierbas reci√©n cortadas y la frescura de las olas del mar.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/233-mini-aromatizante-60ml-marino.jpg"
@@ -3504,7 +3504,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m·gicamente por las fresias, con un corazÛn muguet, flores blancas y manzana. Sobre un fondo almizclado frutal ·mbar con una presencia sutil en tonalidades c·lidas, dulces y delicadas que envuelven todas sus etapas.",
+        "description":  "Fragancia floral frutal. Representa la esencia del amor y el romance. Ramo de magnolia y fresias. Una alianza donde la magnolia es alumbrada m√°gicamente por las fresias, con un coraz√≥n muguet, flores blancas y manzana. Sobre un fondo almizclado frutal √°mbar con una presencia sutil en tonalidades c√°lidas, dulces y delicadas que envuelven todas sus etapas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/234-mini-aromatizante-60ml-magnolia-y-fresias.jpg"
@@ -3519,7 +3519,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Salida fresca acu·tica y agreste que anuncian un corazÛn de loto acu·tico, algunas notas florales, helecho acu·tico y un fondo de madera.",
+        "description":  "Salida fresca acu√°tica y agreste que anuncian un coraz√≥n de loto acu√°tico, algunas notas florales, helecho acu√°tico y un fondo de madera.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/235-mini-aromatizante-60ml-lola.jpg"
@@ -3534,22 +3534,22 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Din·mica y energÈtica mezcla de cÌtricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, limÛn y bergamota; en el corazÛn se destacan las notas cÌtricas aldehÌdicas y la c·scara de naranja acompaÒado de un tierno bouquet frutado.",
+        "description":  "Din√°mica y energ√©tica mezcla de c√≠tricos con sutiles acordes frutales; en la salida se combinan acordes de naranja amarga, lim√≥n y bergamota; en el coraz√≥n se destacan las notas c√≠tricas aldeh√≠dicas y la c√°scara de naranja acompa√±ado de un tierno bouquet frutado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/236-mini-aromatizante-60ml-linah.jpg"
     },
     {
         "id":  237,
-        "slug":  "mini-aromatizante-60ml-[limÛn]",
-        "name":  "Aromatizante Mini LimÛn 60ml",
+        "slug":  "mini-aromatizante-60ml-[lim√≥n]",
+        "name":  "Aromatizante Mini Lim√≥n 60ml",
         "brand":  "SAPHIRUS",
         "category":  "Mini Aromatizantes",
         "line":  "mini concentrado",
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fragancia cÌtrica verde, muy fresca, con toques de flor de naranja. Excelente difusiÛn y persistencia dejando un aroma limpio y agradable.",
+        "description":  "Fragancia c√≠trica verde, muy fresca, con toques de flor de naranja. Excelente difusi√≥n y persistencia dejando un aroma limpio y agradable.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/237-mini-aromatizante-60ml-limon.jpg"
@@ -3564,7 +3564,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Cl·sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazmÌn que acompaÒan y suavizan la nota principal de la composiciÛn. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
+        "description":  "Cl√°sica fragancia que se abre con notas delicadas de flores de lavanda y sutiles destellos de romero en su cabeza. En su cuerpo se presenta con notas florales de rosa y jazm√≠n que acompa√±an y suavizan la nota principal de la composici√≥n. Su fondo persistente y amaderado se compone de finas maderas de Cedro y Musgo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/238-mini-aromatizante-60ml-lavanda.jpg"
@@ -3579,7 +3579,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Refrescante acorde frutal cuya salida combina el melon, la anan·, sandia, pepino, banana y galbano.",
+        "description":  "Refrescante acorde frutal cuya salida combina el melon, la anan√°, sandia, pepino, banana y galbano.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/239-mini-aromatizante-60ml-hawai.jpg"
@@ -3594,7 +3594,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "ComposiciÛn con notas de salida exÛticas y potentes que van dando lugar a tiernos acordes cÌtricos dejando un persistente aroma floral verde especiado.",
+        "description":  "Composici√≥n con notas de salida ex√≥ticas y potentes que van dando lugar a tiernos acordes c√≠tricos dejando un persistente aroma floral verde especiado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/240-mini-aromatizante-60ml-green.jpg"
@@ -3609,7 +3609,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Floral cÌtrica, radiante, con un corazÛn floreciente de jazmÌn y notas verdes, un fondo c·lido de tonalidades ambarinas y almizcladas.",
+        "description":  "Floral c√≠trica, radiante, con un coraz√≥n floreciente de jazm√≠n y notas verdes, un fondo c√°lido de tonalidades ambarinas y almizcladas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/241-mini-aromatizante-60ml-flowers.jpg"
@@ -3624,7 +3624,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Potente aroma floral dulce y fresco. En la salida el aroma del ciclamen y gardenia envuelto en la frescura de la flor de naranjo dulce deja paso a un difusivo aroma a flores de orquÌdea, jazmÌn e ylang ylang que se combinan con un dulce b·lsamo almizclado de fondo.",
+        "description":  "Potente aroma floral dulce y fresco. En la salida el aroma del ciclamen y gardenia envuelto en la frescura de la flor de naranjo dulce deja paso a un difusivo aroma a flores de orqu√≠dea, jazm√≠n e ylang ylang que se combinan con un dulce b√°lsamo almizclado de fondo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/242-mini-aromatizante-60ml-flores-blancas.jpg"
@@ -3639,7 +3639,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Muy agradable y difusiva fragancia infantil que explota con bergamota y notas verdes en su salida. Sus Flores blancas y notas de rosa de Bulgaria se entrelazan con el almizcle, las maderas de cedro y vainilla para formar un c·lido y persistente fondo.",
+        "description":  "Muy agradable y difusiva fragancia infantil que explota con bergamota y notas verdes en su salida. Sus Flores blancas y notas de rosa de Bulgaria se entrelazan con el almizcle, las maderas de cedro y vainilla para formar un c√°lido y persistente fondo.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/243-mini-aromatizante-60ml-conny.jpg"
@@ -3654,7 +3654,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Intensa fragancia de coco combinada con chauchas de vainilla envueltas en una nota l·ctea que las aglutina.",
+        "description":  "Intensa fragancia de coco combinada con chauchas de vainilla envueltas en una nota l√°ctea que las aglutina.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/244-mini-aromatizante-60ml-coco-vai.jpg"
@@ -3669,7 +3669,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Explosivo mix cÌtrico fresco, con una salida de c·scara de naranja y limÛn verde apoyado en un corazÛn floral a base de jazmÌn.",
+        "description":  "Explosivo mix c√≠trico fresco, con una salida de c√°scara de naranja y lim√≥n verde apoyado en un coraz√≥n floral a base de jazm√≠n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/245-mini-aromatizante-60ml-citrus.jpg"
@@ -3691,15 +3691,15 @@ export const PRODUCTS = [
     },
     {
         "id":  247,
-        "slug":  "mini-aromatizante-60ml-[bebÈ]",
-        "name":  "Aromatizante Mini BebÈ 60ml",
+        "slug":  "mini-aromatizante-60ml-[beb√©]",
+        "name":  "Aromatizante Mini Beb√© 60ml",
         "brand":  "SAPHIRUS",
         "category":  "Mini Aromatizantes",
         "line":  "mini concentrado",
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia cÌtrica floral. La nota de salida est· caracterizada por la combinaciÛn del azahar dulce, c·scara de limÛn y bergamota. El delicado corazÛn floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaciÛn arom·tica.",
+        "description":  "Inspirado en fragancia de reconocida marca. Tierna fragancia c√≠trica floral. La nota de salida est√° caracterizada por la combinaci√≥n del azahar dulce, c√°scara de lim√≥n y bergamota. El delicado coraz√≥n floral, mezcla de neroli, naranja valencia y rosas dan forma junto con las notas de fondo dominadas por el habas tonka, cedro y almizcle blanco a esta exquisita combinaci√≥n arom√°tica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/247-mini-aromatizante-60ml-bebe.jpg"
@@ -3729,7 +3729,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Una sutil fragancia sensual con notas de salida mandarina pomelo y azafr·n corazÛn de lirio orquÌdea e ylang y un fondo de cedro, vainilla y almizcle blanco.",
+        "description":  "Inspirado en fragancia de reconocida marca. Una sutil fragancia sensual con notas de salida mandarina pomelo y azafr√°n coraz√≥n de lirio orqu√≠dea e ylang y un fondo de cedro, vainilla y almizcle blanco.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/249-mini-aromatizante-60ml-argel.jpg"
@@ -3744,7 +3744,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Inspirado en fragancia de reconocida marca. Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y anÌs, juntos con el jazmÌn, y s·ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris.",
+        "description":  "Inspirado en fragancia de reconocida marca. Un delicado aroma que revela un floral dulce mezclado con flores de cerezo y an√≠s, juntos con el jazm√≠n, y s√°ndalo se envuelven en la suave sensualidad de la vainilla, del incienso y el amber gris.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/mini-concentrado/250-mini-aromatizante-60ml-amour.jpg"
@@ -3774,7 +3774,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Aroma limpio y fresco, inspirado en las playas de arena blanca y aire fresco del ocÈano. El ·mbar y las notas ozonicas son caracterÌsticas de esta nueva creaciÛn.",
+        "description":  "Aroma limpio y fresco, inspirado en las playas de arena blanca y aire fresco del oc√©ano. El √°mbar y las notas ozonicas son caracter√≠sticas de esta nueva creaci√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/252-home-spray-500ml-lino-y-peonias.jpg"
@@ -3789,7 +3789,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Mezcla atractiva y original de fresia azul, clementina dulce y suaves pÈtalos de violeta.",
+        "description":  "Mezcla atractiva y original de fresia azul, clementina dulce y suaves p√©talos de violeta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/253-home-spray-500ml-fresias-bergamota.jpg"
@@ -3804,7 +3804,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Aroma frutal, floral, acuoso y fresco. Notas de salida de peras frescas, un cuerpo de amapolas silvestres y un delicado fondo vibrante de flores blancas y jazmÌn componen esta deliciosa fragancia.",
+        "description":  "Aroma frutal, floral, acuoso y fresco. Notas de salida de peras frescas, un cuerpo de amapolas silvestres y un delicado fondo vibrante de flores blancas y jazm√≠n componen esta deliciosa fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/254-home-spray-500ml-amapola-cerezo.jpg"
@@ -3819,7 +3819,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Nueva fragancia con notas cÌtricas y tÈ verde que da lugar a un corazÛn compuesto por flores blancas e iris formando un aroma fresco con notas terrosas y cremosas. Culminando con un fondo almizclado.",
+        "description":  "Nueva fragancia con notas c√≠tricas y t√© verde que da lugar a un coraz√≥n compuesto por flores blancas e iris formando un aroma fresco con notas terrosas y cremosas. Culminando con un fondo almizclado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/255-home-spray-500ml-clementina-y-flores-blancas.jpg"
@@ -3834,7 +3834,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fragancia arom·tica unisex con notas de salida cÌtricas y frescas, dando un car·cter elegante y discreto. Su corazÛn de compuesto por tÈ verde y grosellas negras culmina en un fondo almizclado",
+        "description":  "Fragancia arom√°tica unisex con notas de salida c√≠tricas y frescas, dando un car√°cter elegante y discreto. Su coraz√≥n de compuesto por t√© verde y grosellas negras culmina en un fondo almizclado",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/256-home-spray-500ml-mountain-water.jpg"
@@ -3849,22 +3849,22 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Mix de notas cÌtricas y florales que junto a la frescura de la menta y la verbena hacen una fragancia ˙nica.",
+        "description":  "Mix de notas c√≠tricas y florales que junto a la frescura de la menta y la verbena hacen una fragancia √∫nica.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/257-home-spray-500ml-pomelo-y-menta.jpg"
     },
     {
         "id":  258,
-        "slug":  "home-spray-500ml-[mango-anan·]",
-        "name":  "Home Spray Mango Anan· 500ml",
+        "slug":  "home-spray-500ml-[mango-anan√°]",
+        "name":  "Home Spray Mango Anan√° 500ml",
         "brand":  "SAPHIRUS",
         "category":  "Home Spray",
         "line":  "home spray",
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "ComposiciÛn fresca y tropical. Se presenta con una salida impactante de naranja amarga y ar·ndanos, que dan lugar a un corazÛn dulce de anan·, mango y durazno culminando con notas de coco y manzana roja.",
+        "description":  "Composici√≥n fresca y tropical. Se presenta con una salida impactante de naranja amarga y ar√°ndanos, que dan lugar a un coraz√≥n dulce de anan√°, mango y durazno culminando con notas de coco y manzana roja.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/258-home-spray-500ml-mango-anana.jpg"
@@ -3879,7 +3879,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fresca fragancia de flor de loto con toques cÌtricos. Sus notas de salida compuestas por mandarina y bergamota dan lugar a un corazÛn de flor de loto de Fiji y rosas que descansan en un acorde marino intenso y litsea.",
+        "description":  "Fresca fragancia de flor de loto con toques c√≠tricos. Sus notas de salida compuestas por mandarina y bergamota dan lugar a un coraz√≥n de flor de loto de Fiji y rosas que descansan en un acorde marino intenso y litsea.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/259-home-spray-500ml-flor-de-loto.jpg"
@@ -3894,22 +3894,22 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "CreaciÛn delicada y refrescante con toques frutados levemente dulces en la salida, acompaÒada de un corazÛn floral acuoso sobre un fondo c·lido amaderado.",
+        "description":  "Creaci√≥n delicada y refrescante con toques frutados levemente dulces en la salida, acompa√±ada de un coraz√≥n floral acuoso sobre un fondo c√°lido amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/260-home-spray-500ml-clean-cotton.jpg"
     },
     {
         "id":  261,
-        "slug":  "home-spray-500ml-[ar·ndanos-y-canela]",
-        "name":  "Home Spray Ar·ndanos \u0026 Canela 500ml",
+        "slug":  "home-spray-500ml-[ar√°ndanos-y-canela]",
+        "name":  "Home Spray Ar√°ndanos \u0026 Canela 500ml",
         "brand":  "SAPHIRUS",
         "category":  "Home Spray",
         "line":  "home spray",
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Chispeante aroma con matices alegres de deliciosos ar·ndanos, frutos rojos, frambuesas y grosellas negras que junto a las notas herbales y las notas cÌtricas realzan esta fragancia.",
+        "description":  "Chispeante aroma con matices alegres de deliciosos ar√°ndanos, frutos rojos, frambuesas y grosellas negras que junto a las notas herbales y las notas c√≠tricas realzan esta fragancia.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/261-home-spray-500ml-arandanos-y-canela.jpg"
@@ -3924,7 +3924,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Una explosion de champagne rosado, grosellas negras, nectarina y almizcle azucarado que nos llena de creatividad y alegrÌa.",
+        "description":  "Una explosion de champagne rosado, grosellas negras, nectarina y almizcle azucarado que nos llena de creatividad y alegr√≠a.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/262-home-spray-500ml-grosellas-y-nectarina.jpg"
@@ -3932,14 +3932,14 @@ export const PRODUCTS = [
     {
         "id":  263,
         "slug":  "home-spray-500ml-[lima-limon]",
-        "name":  "Home Spray Lima LimÛn 500ml",
+        "name":  "Home Spray Lima Lim√≥n 500ml",
         "brand":  "SAPHIRUS",
         "category":  "Home Spray",
         "line":  "home spray",
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Exquisito aroma a limoncello italiano con una salida ˙nica de ralladura de limÛn y lima. Su corazÛn se sostiene por el limÛn Sorrento y un petit grain, dejando una estela de almizcle y az˙car de caÒa.",
+        "description":  "Exquisito aroma a limoncello italiano con una salida √∫nica de ralladura de lim√≥n y lima. Su coraz√≥n se sostiene por el lim√≥n Sorrento y un petit grain, dejando una estela de almizcle y az√∫car de ca√±a.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/263-home-spray-500ml-lima-limon.jpg"
@@ -3947,14 +3947,14 @@ export const PRODUCTS = [
     {
         "id":  264,
         "slug":  "home-spray-500ml-[uva-y-arandanos]",
-        "name":  "Home Spray Uva y Ar·ndanos 500ml",
+        "name":  "Home Spray Uva y Ar√°ndanos 500ml",
         "brand":  "SAPHIRUS",
         "category":  "Home Spray",
         "line":  "home spray",
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fragancia que nos envuelve en su salida con uvas coloradas y ar·ndanos acompaÒados por moras azules. Culminando con un aroma inconfundible de vainilla cremosa.",
+        "description":  "Fragancia que nos envuelve en su salida con uvas coloradas y ar√°ndanos acompa√±ados por moras azules. Culminando con un aroma inconfundible de vainilla cremosa.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/264-home-spray-500ml-uva-y-arandanos.jpg"
@@ -3969,7 +3969,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Burbujeante fragancia con notas jugosas de manzanas y champagne dulce, que descansan en un cuerpo de miel y jazmÌn con notas amaderadas.",
+        "description":  "Burbujeante fragancia con notas jugosas de manzanas y champagne dulce, que descansan en un cuerpo de miel y jazm√≠n con notas amaderadas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/265-home-spray-500ml-apple-champagne.jpg"
@@ -3984,7 +3984,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Sensual fragancia floral-frutal, con notas cÌtricas y hojas de manzanares que dan paso a las magnolias y fresias; culminando con un fondo almizclado.",
+        "description":  "Sensual fragancia floral-frutal, con notas c√≠tricas y hojas de manzanares que dan paso a las magnolias y fresias; culminando con un fondo almizclado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/266-home-spray-500ml-fancy-dreams.jpg"
@@ -3999,7 +3999,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Compuesto por un mix de cÌtricos que, en conjunto con las notas florales y especiadas que componen el corazÛn de la fragancia; nos conquistan y transportan a un lugar soÒado.",
+        "description":  "Compuesto por un mix de c√≠tricos que, en conjunto con las notas florales y especiadas que componen el coraz√≥n de la fragancia; nos conquistan y transportan a un lugar so√±ado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/267-home-spray-500ml-citric-wood.jpg"
@@ -4014,7 +4014,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fragancia intensa y diferente. Notas Frutadas, banana, flores suaves y delicadas juegan para dar vida a esta creaciÛn energizante.",
+        "description":  "Fragancia intensa y diferente. Notas Frutadas, banana, flores suaves y delicadas juegan para dar vida a esta creaci√≥n energizante.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/268-home-spray-500ml-mix-tropical.jpg"
@@ -4044,22 +4044,22 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Combina un mix perfecto de frutas acuosas conjugadas con notas florales silvestres seleccionadas que nos brindan la sensaciÛn de relax y armonÌa con un final gourmet avainillado y frutos rojos patagÛnicos.",
+        "description":  "Combina un mix perfecto de frutas acuosas conjugadas con notas florales silvestres seleccionadas que nos brindan la sensaci√≥n de relax y armon√≠a con un final gourmet avainillado y frutos rojos patag√≥nicos.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/270-home-spray-500ml-sweet-flower.jpg"
     },
     {
         "id":  271,
-        "slug":  "home-spray-500ml-[sandÌa-pepino]",
-        "name":  "Home Spray SandÌa Pepino 500ml",
+        "slug":  "home-spray-500ml-[sand√≠a-pepino]",
+        "name":  "Home Spray Sand√≠a Pepino 500ml",
         "brand":  "SAPHIRUS",
         "category":  "Home Spray",
         "line":  "home spray",
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fragancia con un mix frutal en su salida, mezclando notas frescas de sandÌa y pepino. Su corazÛn se conforma y asienta su car·cter en notas de sutiles frutos rojos y la suavidad de los lirios del valle, cerrando con una misteriosa calidez de la vainilla y el almizcle.",
+        "description":  "Fragancia con un mix frutal en su salida, mezclando notas frescas de sand√≠a y pepino. Su coraz√≥n se conforma y asienta su car√°cter en notas de sutiles frutos rojos y la suavidad de los lirios del valle, cerrando con una misteriosa calidez de la vainilla y el almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/271-home-spray-500ml-sandia-pepino.jpg"
@@ -4074,22 +4074,22 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fragancia conformada por frescas notas de salida de naranja y pomelo. De car·cter dulce y cÌtrico.",
+        "description":  "Fragancia conformada por frescas notas de salida de naranja y pomelo. De car√°cter dulce y c√≠trico.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/272-home-spray-500ml-naranja-pomelo.jpg"
     },
     {
         "id":  273,
-        "slug":  "home-spray-500ml-[coco.maracuy·]",
-        "name":  "Home Spray Coco Maracuy· 500ml",
+        "slug":  "home-spray-500ml-[coco.maracuy√°]",
+        "name":  "Home Spray Coco Maracuy√° 500ml",
         "brand":  "SAPHIRUS",
         "category":  "Home Spray",
         "line":  "home spray",
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Colorida y divertida. Una fragancia que estimula los sentidos con notas tropicales de maracuy· y coco. Con notas dulces, frutadas, vainillas y maderas blancas dan un conjunto persistente y energÈtico.",
+        "description":  "Colorida y divertida. Una fragancia que estimula los sentidos con notas tropicales de maracuy√° y coco. Con notas dulces, frutadas, vainillas y maderas blancas dan un conjunto persistente y energ√©tico.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/273-home-spray-500ml-coco-maracuya.jpg"
@@ -4104,7 +4104,7 @@ export const PRODUCTS = [
         "price":  "$6.100",
         "priceValue":  "6100.00",
         "stock":  "NO",
-        "description":  "Fragancia floral aldehÌdica en combinaciÛn con notas de flores blancas y Peonias, posee un fondo de vainilla musk y notas polvorosas.",
+        "description":  "Fragancia floral aldeh√≠dica en combinaci√≥n con notas de flores blancas y Peonias, posee un fondo de vainilla musk y notas polvorosas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/home-spray/274-home-spray-500ml-breeze.jpg"
@@ -4119,10 +4119,10 @@ export const PRODUCTS = [
         "price":  "$100",
         "priceValue":  "100.00",
         "stock":  "NO",
-        "description":  "DescripciÛn",
+        "description":  "Descripci√≥n",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  276,
@@ -4134,10 +4134,10 @@ export const PRODUCTS = [
         "price":  "$100",
         "priceValue":  "100.00",
         "stock":  "NO",
-        "description":  "DescripciÛn",
+        "description":  "Descripci√≥n",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/aerosoles/1-aerosol-clean-cotton.jpg"
+        "image":  "placeholder-producto.svg"
     },
     {
         "id":  277,
@@ -4149,7 +4149,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Fragancia difusiva, con una intensa salida de naranja y frutilla que se combina con un corazÛn de notas verdes, construido sobre un fondo de ·mbar, almizcles que se fusionan con el encanto de la vainilla.",
+        "description":  "Fragancia difusiva, con una intensa salida de naranja y frutilla que se combina con un coraz√≥n de notas verdes, construido sobre un fondo de √°mbar, almizcles que se fusionan con el encanto de la vainilla.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/277-route-66-naranja-frutilla.jpg"
@@ -4164,7 +4164,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Un aroma con una salida de uva y ciruela, con corazÛn de frutas tropicales que se combina con el azahar que le aporta tenacidad.",
+        "description":  "Un aroma con una salida de uva y ciruela, con coraz√≥n de frutas tropicales que se combina con el azahar que le aporta tenacidad.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/278-route-66-uva.jpg"
@@ -4179,7 +4179,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Un aroma de salida cÌtrica. Connota la acidez refrescante de la manzana verde y se mezcla con un corazÛn floral frutal de notas verdes en una base almizclada.",
+        "description":  "Un aroma de salida c√≠trica. Connota la acidez refrescante de la manzana verde y se mezcla con un coraz√≥n floral frutal de notas verdes en una base almizclada.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/279-route-66-manzana.jpg"
@@ -4194,7 +4194,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Fresca combinaciÛn de notas cÌtricas herbales y marinas donde se destaca la frescura de las flores de azahar, las hierbas reciÈn cortadas y la frescura de las olas del mar. Contenido: 2 unidades.",
+        "description":  "Fresca combinaci√≥n de notas c√≠tricas herbales y marinas donde se destaca la frescura de las flores de azahar, las hierbas reci√©n cortadas y la frescura de las olas del mar. Contenido: 2 unidades.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/280-route-66-marino.jpg"
@@ -4209,7 +4209,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Un cÛctel refrescante, donde la naranja dulce y los aldehÌdos destacan sus notas chispeantes dejando un aroma dulce almizclado.",
+        "description":  "Un c√≥ctel refrescante, donde la naranja dulce y los aldeh√≠dos destacan sus notas chispeantes dejando un aroma dulce almizclado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/281-route-66-naranja.jpg"
@@ -4224,7 +4224,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Perfume de salida herbal, un corazÛn que deja una agradable impresiÛn de cuero y tabaco, mientras una mezcla de vetiver, musgo de roble y patchouly le dan car·cter.",
+        "description":  "Perfume de salida herbal, un coraz√≥n que deja una agradable impresi√≥n de cuero y tabaco, mientras una mezcla de vetiver, musgo de roble y patchouly le dan car√°cter.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/282-route-66-polo.jpg"
@@ -4239,7 +4239,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Refrescante acorde frutal de melÛn, manzana, sandÌa y banana, con un corazÛn acu·tico y tropical. Dan lugar a un fondo dulce avainillado.",
+        "description":  "Refrescante acorde frutal de mel√≥n, manzana, sand√≠a y banana, con un coraz√≥n acu√°tico y tropical. Dan lugar a un fondo dulce avainillado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/283-route-66-tropical.jpg"
@@ -4261,15 +4261,15 @@ export const PRODUCTS = [
     },
     {
         "id":  285,
-        "slug":  "route-66-[cÌtrico]",
-        "name":  "Route 66 CÌtrico",
+        "slug":  "route-66-[c√≠trico]",
+        "name":  "Route 66 C√≠trico",
         "brand":  "SAPHIRUS",
         "category":  "Route 66",
         "line":  "route 66",
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Explosivo mix cÌtrico fresco, con una salida de cascara de naranja y limÛn verde apoyado en un corazÛn floral a base de jazmÌn. El fondo almizclado ayuda a resaltar las notas frescas del perfume. Contenido: 2 unidades.",
+        "description":  "Explosivo mix c√≠trico fresco, con una salida de cascara de naranja y lim√≥n verde apoyado en un coraz√≥n floral a base de jazm√≠n. El fondo almizclado ayuda a resaltar las notas frescas del perfume. Contenido: 2 unidades.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/285-route-66-citrico.jpg"
@@ -4284,7 +4284,7 @@ export const PRODUCTS = [
         "price":  "$100",
         "priceValue":  "100.00",
         "stock":  "NO",
-        "description":  "Fragancia conformada por grosellas negras, moras y matices de pomelo. Aroma frutado que se envuelve en un corazÛn de frutillas con notas de coco y vainilla. Contenido: 2 unidades.",
+        "description":  "Fragancia conformada por grosellas negras, moras y matices de pomelo. Aroma frutado que se envuelve en un coraz√≥n de frutillas con notas de coco y vainilla. Contenido: 2 unidades.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/route-66/286-route-66-frutos-rojos.jpg"
@@ -4299,7 +4299,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Fragancia conformada por grosellas negras, moras y matices de pomelo. Aroma frutado que se envuelve en un corazÛn de frutillas con notas de coco y vainilla.",
+        "description":  "Fragancia conformada por grosellas negras, moras y matices de pomelo. Aroma frutado que se envuelve en un coraz√≥n de frutillas con notas de coco y vainilla.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/caritas/287-carita-frutos-rojos.webp"
@@ -4314,7 +4314,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Un cÛctel refrescante, donde la naranja dulce y los aldehÌdos destacan sus notas chispeantes dejando un aroma dulce almizclado.",
+        "description":  "Un c√≥ctel refrescante, donde la naranja dulce y los aldeh√≠dos destacan sus notas chispeantes dejando un aroma dulce almizclado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/caritas/288-carita-naranja.webp"
@@ -4329,7 +4329,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Perfume con salida herbal y corazÛn con una agradable impresiÛn de cuero y tabaco. Mezcla de vetiver, musgo de roble y patchouly. Contenido: 4 unidades.",
+        "description":  "Perfume con salida herbal y coraz√≥n con una agradable impresi√≥n de cuero y tabaco. Mezcla de vetiver, musgo de roble y patchouly. Contenido: 4 unidades.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/caritas/289-carita-sport.webp"
@@ -4359,7 +4359,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Un aroma de salida cÌtrica. Connota la acidez refrescante de la manzana verde y se mezcla con un corazÛn floral frutal de notas verdes en una base almizclada.",
+        "description":  "Un aroma de salida c√≠trica. Connota la acidez refrescante de la manzana verde y se mezcla con un coraz√≥n floral frutal de notas verdes en una base almizclada.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/caritas/291-carita-manzana.webp"
@@ -4367,14 +4367,14 @@ export const PRODUCTS = [
     {
         "id":  292,
         "slug":  "carita-[lima-limon]",
-        "name":  "Caritas Lima LimÛn Saphirus",
+        "name":  "Caritas Lima Lim√≥n Saphirus",
         "brand":  "SAPHIRUS",
         "category":  "Caritas",
         "line":  "caritas",
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Mezcla de cÌtricos, donde se identifica limÛn y pomelo. Con un corazÛn atractivo de acordes florales con notas verdes y destellos especiados.",
+        "description":  "Mezcla de c√≠tricos, donde se identifica lim√≥n y pomelo. Con un coraz√≥n atractivo de acordes florales con notas verdes y destellos especiados.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/caritas/292-carita-lima-limon.webp"
@@ -4404,7 +4404,7 @@ export const PRODUCTS = [
         "price":  "$3.100",
         "priceValue":  "3100.00",
         "stock":  "NO",
-        "description":  "Fragancia marina de notas frescas, limpias y ozono natural que recuerda a la brisa del mar con un corazÛn difusivo de hierbas y ·mbar.",
+        "description":  "Fragancia marina de notas frescas, limpias y ozono natural que recuerda a la brisa del mar con un coraz√≥n difusivo de hierbas y √°mbar.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/caritas/294-carita-aqua.webp"
@@ -4419,10 +4419,10 @@ export const PRODUCTS = [
         "price":  "$5.000",
         "priceValue":  "5000.00",
         "stock":  "NO",
-        "description":  "Una fragancia fresca y arom·tica que envuelve los sentidos. La salida vibrante mezcla aldehÌdos, eucalipto refrescante y bergamota chispeante. En el corazÛn, la lavanda y el romero aportan un aire herbal, suavizado por la manzana. La base combina la calidez del ·mbar con la pureza del almizcle y la frescura resinosa del pino, dejando una estela limpia y revitalizante.",
+        "description":  "Una fragancia fresca y arom√°tica que envuelve los sentidos. La salida vibrante mezcla aldeh√≠dos, eucalipto refrescante y bergamota chispeante. En el coraz√≥n, la lavanda y el romero aportan un aire herbal, suavizado por la manzana. La base combina la calidez del √°mbar con la pureza del almizcle y la frescura resinosa del pino, dejando una estela limpia y revitalizante.",
         "showInStore":  true,
         "isPhysical":  true,
-        "image":  "productos/touch/295-touch-gris-repuesto-lavanda-fresh.jpg",
+        "image":  "placeholder-producto.svg",
         "hoverImage":  "productos/touch/295-touch-gris-repuesto-lavanda-fresh-hover.jpg"
     },
     {
@@ -4435,7 +4435,7 @@ export const PRODUCTS = [
         "price":  "$5.000",
         "priceValue":  "5000.00",
         "stock":  "NO",
-        "description":  "Una fragancia luminosa y sofisticada. La salida frutada combina manzana, bergamota, grosella negra y azahar, aportando frescura vibrante. En el corazÛn, un delicado bouquet de jazmÌn, muguet y rosa envuelve los sentidos con elegancia. La base, c·lida y envolvente, fusiona incienso, almizcle, pachulÌ y vainilla, dejando una estela sensual y adictiva.",
+        "description":  "Una fragancia luminosa y sofisticada. La salida frutada combina manzana, bergamota, grosella negra y azahar, aportando frescura vibrante. En el coraz√≥n, un delicado bouquet de jazm√≠n, muguet y rosa envuelve los sentidos con elegancia. La base, c√°lida y envolvente, fusiona incienso, almizcle, pachul√≠ y vainilla, dejando una estela sensual y adictiva.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/296-touch-gris-repuesto-dulzura-tropical.jpg",
@@ -4451,7 +4451,7 @@ export const PRODUCTS = [
         "price":  "$5.000",
         "priceValue":  "5000.00",
         "stock":  "NO",
-        "description":  "Fragancia de connotaciÛn cÌtrica, muy efusiva y fresca caracterizada por sus notas florales de corazÛn.",
+        "description":  "Fragancia de connotaci√≥n c√≠trica, muy efusiva y fresca caracterizada por sus notas florales de coraz√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/297-touch-arena-dorada-repuesto-mix-citrico.jpg",
@@ -4467,7 +4467,7 @@ export const PRODUCTS = [
         "price":  "$5.000",
         "priceValue":  "5000.00",
         "stock":  "NO",
-        "description":  "Destellos de frutos rojos y notas cÌtricas destacan esta fragancia que descansa en un fondo amaderado.",
+        "description":  "Destellos de frutos rojos y notas c√≠tricas destacan esta fragancia que descansa en un fondo amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/298-touch-blanco-repuesto-frutos-rojos.jpg",
@@ -4483,7 +4483,7 @@ export const PRODUCTS = [
         "price":  "$5.000",
         "priceValue":  "5000.00",
         "stock":  "NO",
-        "description":  "Aroma cÌtrico con notas de sales marinas que se destaca por sus c·racter agreste brindado por la lavanda y la menta.",
+        "description":  "Aroma c√≠trico con notas de sales marinas que se destaca por sus c√°racter agreste brindado por la lavanda y la menta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/299-touch-azul-claro-repuesto-agua-marina.jpg",
@@ -4491,15 +4491,15 @@ export const PRODUCTS = [
     },
     {
         "id":  300,
-        "slug":  "touch-[soft-rosa-repuesto-pÈtalos-florales]",
-        "name":  "Dispositivo Soft Rosa + Repuesto Touch - PÈtalos Florales",
+        "slug":  "touch-[soft-rosa-repuesto-p√©talos-florales]",
+        "name":  "Dispositivo Soft Rosa + Repuesto Touch - P√©talos Florales",
         "brand":  "SAPHIRUS",
         "category":  "Touch",
         "line":  "touch",
         "price":  "$5.000",
         "priceValue":  "5000.00",
         "stock":  "NO",
-        "description":  "Fresca fragancia donde sus notas florales de corazÛn dan paso a un delicioso fondo amaderado.",
+        "description":  "Fresca fragancia donde sus notas florales de coraz√≥n dan paso a un delicioso fondo amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/300-touch-soft-rosa-repuesto-petalos-florales.jpg",
@@ -4515,7 +4515,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Una fragancia fresca y arom·tica que envuelve los sentidos. La salida vibrante mezcla aldehÌdos, eucalipto refrescante y bergamota chispeante. En el corazÛn, la lavanda y el romero aportan un aire herbal, suavizado por la manzana. La base combina la calidez del ·mbar con la pureza del almizcle y la frescura resinosa del pino, dejando una estela limpia y revitalizante.",
+        "description":  "Una fragancia fresca y arom√°tica que envuelve los sentidos. La salida vibrante mezcla aldeh√≠dos, eucalipto refrescante y bergamota chispeante. En el coraz√≥n, la lavanda y el romero aportan un aire herbal, suavizado por la manzana. La base combina la calidez del √°mbar con la pureza del almizcle y la frescura resinosa del pino, dejando una estela limpia y revitalizante.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/301-repuesto-touch-lavanda-fresh.jpg",
@@ -4531,7 +4531,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Una fragancia luminosa y sofisticada. La salida frutada combina manzana, bergamota, grosella negra y azahar, aportando frescura vibrante. En el corazÛn, un delicado bouquet de jazmÌn, muguet y rosa envuelve los sentidos con elegancia. La base, c·lida y envolvente, fusiona incienso, almizcle, pachulÌ y vainilla, dejando una estela sensual y adictiva.",
+        "description":  "Una fragancia luminosa y sofisticada. La salida frutada combina manzana, bergamota, grosella negra y azahar, aportando frescura vibrante. En el coraz√≥n, un delicado bouquet de jazm√≠n, muguet y rosa envuelve los sentidos con elegancia. La base, c√°lida y envolvente, fusiona incienso, almizcle, pachul√≠ y vainilla, dejando una estela sensual y adictiva.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/302-repuesto-touch-dulzura-tropical.jpg",
@@ -4547,7 +4547,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fragancia de connotaciÛn cÌtrica, muy efusiva y fresca caracterizada por sus notas florales de corazÛn.",
+        "description":  "Fragancia de connotaci√≥n c√≠trica, muy efusiva y fresca caracterizada por sus notas florales de coraz√≥n.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/303-repuesto-touch-mix-citrico.jpg",
@@ -4563,7 +4563,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Destellos de frutos rojos y notas cÌtricas destacan esta fragancia que descansa en un fondo amaderado.",
+        "description":  "Destellos de frutos rojos y notas c√≠tricas destacan esta fragancia que descansa en un fondo amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/304-repuesto-touch-frutos-rojos.jpg",
@@ -4579,7 +4579,7 @@ export const PRODUCTS = [
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Aroma cÌtrico con notas de sales marinas que se destaca por sus c·racter agreste brindado por la lavanda y la menta.",
+        "description":  "Aroma c√≠trico con notas de sales marinas que se destaca por sus c√°racter agreste brindado por la lavanda y la menta.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/305-repuesto-touch-agua-marina.jpg",
@@ -4587,15 +4587,15 @@ export const PRODUCTS = [
     },
     {
         "id":  306,
-        "slug":  "repuesto-touch-[pÈtalos-florales]",
-        "name":  "Touch Repuesto PÈtalos Florales",
+        "slug":  "repuesto-touch-[p√©talos-florales]",
+        "name":  "Touch Repuesto P√©talos Florales",
         "brand":  "SAPHIRUS",
         "category":  "Touch",
         "line":  "touch",
         "price":  "$2.800",
         "priceValue":  "2800.00",
         "stock":  "NO",
-        "description":  "Fresca fragancia donde sus notas florales de corazÛn dan paso a un delicioso fondo amaderado.",
+        "description":  "Fresca fragancia donde sus notas florales de coraz√≥n dan paso a un delicioso fondo amaderado.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/touch/306-repuesto-touch-petalos-florales.jpg",
@@ -4604,14 +4604,14 @@ export const PRODUCTS = [
     {
         "id":  307,
         "slug":  "Dispositivo-Deco-[Red-Blood]",
-        "name":  "Saphirus Dispensador Rojo Sangre con toque lateral ñ LÌnea Deco",
+        "name":  "Saphirus Dispensador Rojo Sangre con toque lateral ‚Äì L√≠nea Deco",
         "brand":  "SAPHIRUS",
         "category":  "Dispositivos Deco",
         "line":  "equipo aromatizadores",
         "price":  "$15.000",
         "priceValue":  "15000.00",
         "stock":  "NO",
-        "description":  "Equipo AnalÛgico con toque lateral.",
+        "description":  "Equipo Anal√≥gico con toque lateral.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/equipo-aromatizadores/307-dispositivo-deco-red-blood.jpg"
@@ -4619,14 +4619,14 @@ export const PRODUCTS = [
     {
         "id":  308,
         "slug":  "Dispositivo-Deco-[Black]",
-        "name":  "Saphirus Dispensador Negro con toque lateral ñ LÌnea Deco",
+        "name":  "Saphirus Dispensador Negro con toque lateral ‚Äì L√≠nea Deco",
         "brand":  "SAPHIRUS",
         "category":  "Dispositivos Deco",
         "line":  "equipo aromatizadores",
         "price":  "$15.000",
         "priceValue":  "15000.00",
         "stock":  "NO",
-        "description":  "Equipo AnalÛgico con toque lateral. Su diseÒo exclusivo y moderno te permitir· decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m·s te guste.",
+        "description":  "Equipo Anal√≥gico con toque lateral. Su dise√±o exclusivo y moderno te permitir√° decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m√°s te guste.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/equipo-aromatizadores/308-dispositivo-deco-black.webp"
@@ -4634,14 +4634,14 @@ export const PRODUCTS = [
     {
         "id":  309,
         "slug":  "Dispositivo-Deco-[Grey]",
-        "name":  "Saphirus Dispensador Gris con toque lateral ñ LÌnea Deco",
+        "name":  "Saphirus Dispensador Gris con toque lateral ‚Äì L√≠nea Deco",
         "brand":  "SAPHIRUS",
         "category":  "Dispositivos Deco",
         "line":  "equipo aromatizadores",
         "price":  "$15.000",
         "priceValue":  "15000.00",
         "stock":  "NO",
-        "description":  "Equipo AnalÛgico con toque lateral. Su diseÒo exclusivo y moderno te permitir· decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m·s te guste.",
+        "description":  "Equipo Anal√≥gico con toque lateral. Su dise√±o exclusivo y moderno te permitir√° decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m√°s te guste.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/equipo-aromatizadores/309-dispositivo-deco-grey.jpg"
@@ -4656,7 +4656,7 @@ export const PRODUCTS = [
         "price":  "$15.000",
         "priceValue":  "15000.00",
         "stock":  "NO",
-        "description":  "Equipo AnalÛgico con toque lateral. Su diseÒo exclusivo y moderno te permitir· decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m·s te guste.",
+        "description":  "Equipo Anal√≥gico con toque lateral. Su dise√±o exclusivo y moderno te permitir√° decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m√°s te guste.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/equipo-aromatizadores/310-dispositivo-deco-white.jpg"
@@ -4671,7 +4671,7 @@ export const PRODUCTS = [
         "price":  "$15.000",
         "priceValue":  "15000.00",
         "stock":  "NO",
-        "description":  "Equipo AnalÛgico con toque lateral. Su diseÒo exclusivo y moderno te permitir· decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m·s te guste.",
+        "description":  "Equipo Anal√≥gico con toque lateral. Su dise√±o exclusivo y moderno te permitir√° decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m√°s te guste.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/equipo-aromatizadores/311-dispositivo-deco-gold-sand.jpg"
@@ -4686,7 +4686,7 @@ export const PRODUCTS = [
         "price":  "$15.000",
         "priceValue":  "15000.00",
         "stock":  "NO",
-        "description":  "Equipo AnalÛgico con toque lateral. Su diseÒo exclusivo y moderno te permitir· decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m·s te guste.",
+        "description":  "Equipo Anal√≥gico con toque lateral. Su dise√±o exclusivo y moderno te permitir√° decorar tus espacios al mismo tiempo que los aromatiza. Son muy sencillos de regular e ideales para renovar los ambientes de tu hogar, oficina, comercio o donde m√°s te guste.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/equipo-aromatizadores/312-dispositivo-deco-soft-rose.jpg"
@@ -4701,7 +4701,7 @@ export const PRODUCTS = [
         "price":  "$9.000",
         "priceValue":  "9000.00",
         "stock":  "NO",
-        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit·ndola en forma de lÌquido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y pequeÒos espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
+        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit√°ndola en forma de l√≠quido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y peque√±os espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/antihumedad/313-antihumedad-385g.jpg"
@@ -4716,7 +4716,7 @@ export const PRODUCTS = [
         "price":  "$6.900",
         "priceValue":  "6900.00",
         "stock":  "NO",
-        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit·ndola en forma de lÌquido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y pequeÒos espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
+        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit√°ndola en forma de l√≠quido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y peque√±os espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/antihumedad/314-antihumedad-285g.jpg"
@@ -4731,7 +4731,7 @@ export const PRODUCTS = [
         "price":  "$4.500",
         "priceValue":  "4500.00",
         "stock":  "NO",
-        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit·ndola en forma de lÌquido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y pequeÒos espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
+        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit√°ndola en forma de l√≠quido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y peque√±os espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/antihumedad/315-antihumedad-145g.jpg"
@@ -4746,7 +4746,7 @@ export const PRODUCTS = [
         "price":  "$6.600",
         "priceValue":  "6600.00",
         "stock":  "NO",
-        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit·ndola en forma de lÌquido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y pequeÒos espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
+        "description":  "El Antihumedad Saphirus absorbe el exceso de humedad del ambiente deposit√°ndola en forma de l√≠quido en la parte inferior del recipiente. Indicado para reducir problemas derivados de la humedad tales como hongos, moho y malos olores.  Puede ser utilizado en placares, habitaciones, vestidores y peque√±os espacios. Es indicado tambien para evitar malos olores en prendas de vestir.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/antihumedad/316-antihumedad-250g.jpg"
@@ -4754,9 +4754,9 @@ export const PRODUCTS = [
     {
         "id":  317,
         "slug":  "tarjeta-aromatica-[cereza-malbec]",
-        "name":  "Tarjeta Arom·tica Cereza Malbec",
+        "name":  "Tarjeta Arom√°tica Cereza Malbec",
         "brand":  "SAPHIRUS",
-        "category":  "Tarjetas Arom·ticas",
+        "category":  "Tarjetas Arom√°ticas",
         "line":  "tarjetas aromaticas",
         "price":  "$500",
         "priceValue":  "500.00",
@@ -4772,12 +4772,12 @@ export const PRODUCTS = [
         "slug":  "tarjeta-aromatica-[lima-y-menta]",
         "name":  "Tarjeta Aromatica Lima y Menta",
         "brand":  "SAPHIRUS",
-        "category":  "Tarjetas Arom·ticas",
+        "category":  "Tarjetas Arom√°ticas",
         "line":  "tarjetas aromaticas",
         "price":  "$500",
         "priceValue":  "500.00",
         "stock":  "NO",
-        "description":  "Aromas cÌtrico, con una salida aldehÌdica y mentolada que reposa en una gama de picantes notas verdes.",
+        "description":  "Aromas c√≠trico, con una salida aldeh√≠dica y mentolada que reposa en una gama de picantes notas verdes.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/tarjetas-aromaticas/Lima-y-Menta-700x700.png",
@@ -4786,14 +4786,14 @@ export const PRODUCTS = [
     {
         "id":  319,
         "slug":  "tarjeta-aromatica-[frutos-tropicales]",
-        "name":  "Tarjeta Arom·tica Frutos Tropicales",
+        "name":  "Tarjeta Arom√°tica Frutos Tropicales",
         "brand":  "SAPHIRUS",
-        "category":  "Tarjetas Arom·ticas",
+        "category":  "Tarjetas Arom√°ticas",
         "line":  "tarjetas aromaticas",
         "price":  "$500",
         "priceValue":  "500.00",
         "stock":  "NO",
-        "description":  "Fragancia frutal brillante que se inicia con notas cÌtricas y frutos rojos con tonalidades golosas.",
+        "description":  "Fragancia frutal brillante que se inicia con notas c√≠tricas y frutos rojos con tonalidades golosas.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/tarjetas-aromaticas/Frutos-Tropicales-700x700.png",
@@ -4802,14 +4802,14 @@ export const PRODUCTS = [
     {
         "id":  320,
         "slug":  "tarjeta-aromatica-[rosas-y-neroli]",
-        "name":  "Tarjeta Arom·tica Rosas y Neroli",
+        "name":  "Tarjeta Arom√°tica Rosas y Neroli",
         "brand":  "SAPHIRUS",
-        "category":  "Tarjetas Arom·ticas",
+        "category":  "Tarjetas Arom√°ticas",
         "line":  "tarjetas aromaticas",
         "price":  "$500",
         "priceValue":  "500.00",
         "stock":  "NO",
-        "description":  "Su salida esta compuesta de notas frescas de bergamota y un corazÛn de neroli y rosas, construido sobre un fondo c·lido de ·mbar y almizcle.",
+        "description":  "Su salida esta compuesta de notas frescas de bergamota y un coraz√≥n de neroli y rosas, construido sobre un fondo c√°lido de √°mbar y almizcle.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/tarjetas-aromaticas/Rosas-y-Neroli-700x700.png",
@@ -4818,14 +4818,14 @@ export const PRODUCTS = [
     {
         "id":  321,
         "slug":  "tarjeta-aromatica-[magnolia-y-vainilla]",
-        "name":  "Tarjeta Arom·tica Magnolia y Vainilla",
+        "name":  "Tarjeta Arom√°tica Magnolia y Vainilla",
         "brand":  "SAPHIRUS",
-        "category":  "Tarjetas Arom·ticas",
+        "category":  "Tarjetas Arom√°ticas",
         "line":  "tarjetas aromaticas",
         "price":  "$500",
         "priceValue":  "500.00",
         "stock":  "NO",
-        "description":  "Fragancias de notas dulces, matices afrutados, que posee un corazÛn de muguet que evoluciona hacia notas orientales de maderas y almizcles.",
+        "description":  "Fragancias de notas dulces, matices afrutados, que posee un coraz√≥n de muguet que evoluciona hacia notas orientales de maderas y almizcles.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/tarjetas-aromaticas/Magnolia-y-Vainilla-700x700.png",
@@ -4834,21 +4834,17 @@ export const PRODUCTS = [
     {
         "id":  322,
         "slug":  "tarjeta-aromatica-[lavanda-y-manzanilla]",
-        "name":  "Tarjeta Arom·tica Lavanda y Manzanilla",
+        "name":  "Tarjeta Arom√°tica Lavanda y Manzanilla",
         "brand":  "SAPHIRUS",
-        "category":  "Tarjetas Arom·ticas",
+        "category":  "Tarjetas Arom√°ticas",
         "line":  "tarjetas aromaticas",
         "price":  "$500",
         "priceValue":  "500.00",
         "stock":  "NO",
-        "description":  "Aroma fresco de lavanda y menta que aportan notas arom·ticas con car·cter que se mezclan perfectamente con el corazÛn de manzanilla y lirio, culminando con un fondo de tabaco y especies.",
+        "description":  "Aroma fresco de lavanda y menta que aportan notas arom√°ticas con car√°cter que se mezclan perfectamente con el coraz√≥n de manzanilla y lirio, culminando con un fondo de tabaco y especies.",
         "showInStore":  true,
         "isPhysical":  true,
         "image":  "productos/tarjetas-aromaticas/Lavanda-y-Manzanilla-700x700.png",
         "hoverImage":  "productos/tarjetas-aromaticas/322-tarjeta-aromatica-cereza-malbec-hover.jpg"
     }
 ];
-
-
-
-
