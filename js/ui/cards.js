@@ -1,4 +1,4 @@
-const FALLBACK_IMAGE = "productos/aerosoles/1-aerosol-clean-cotton.jpg";
+const FALLBACK_IMAGE = "placeholder-producto.svg";
 const WHATSAPP_BASE_URL = "https://wa.link/e00gp9";
 const IMAGE_EXTENSIONS = [".jpg", ".jpeg", ".png", ".webp"];
 
@@ -68,9 +68,12 @@ function attachImageFallback(imgEl, originalPath, onFinalFallback) {
     });
 }
 
-export function createCard(product, onBuy = buyProduct) {
+export function createCard(product, { onBuy = buyProduct, onOpenDetails = () => {} } = {}) {
     const card = document.createElement("article");
-    card.className = "product-card";
+    card.className = "product-card is-clickable";
+    card.setAttribute("role", "button");
+    card.setAttribute("tabindex", "0");
+    card.setAttribute("aria-label", `Ver detalle de ${product.name}`);
 
     const hasHoverImage = typeof product.hoverImage === "string" && product.hoverImage.trim() !== "";
     const mainImageSrc = product.image;
@@ -107,8 +110,27 @@ export function createCard(product, onBuy = buyProduct) {
         });
     }
 
-    card.querySelector(".btn-buy").addEventListener("click", () => {
+    card.querySelector(".btn-buy").addEventListener("click", (event) => {
+        event.stopPropagation();
         onBuy(product.name);
+    });
+
+    card.addEventListener("click", (event) => {
+        const target = event.target;
+        if (target instanceof HTMLElement && target.closest(".btn-buy")) {
+            return;
+        }
+
+        onOpenDetails(product);
+    });
+
+    card.addEventListener("keydown", (event) => {
+        if (event.key !== "Enter" && event.key !== " ") {
+            return;
+        }
+
+        event.preventDefault();
+        onOpenDetails(product);
     });
 
     return card;

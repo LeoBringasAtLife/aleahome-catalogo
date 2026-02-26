@@ -30,6 +30,12 @@
         margin-top: 12px;
         overflow-x: hidden;
     }
+
+    .product-modal-dialog {
+        grid-template-columns: 1fr;
+        gap: 14px;
+        padding: 14px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -88,10 +94,113 @@
         font-size: 0.68rem;
         letter-spacing: 0.7px;
     }
+
+    .product-modal-title {
+        font-size: 1.15rem;
+    }
+
+    .product-modal-price {
+        font-size: 1rem;
+    }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
+    main.container {
+        padding: 0 10px;
+    }
+
+    .hero {
+        padding: 44px 0;
+    }
+
+    .hero h1 {
+        font-size: 1.75rem;
+        line-height: 1.15;
+        margin-bottom: 12px;
+    }
+
+    .hero p {
+        font-size: 0.98rem;
+    }
+
+    .active-filter-label {
+        font-size: 0.7rem;
+        letter-spacing: 0.5px;
+        margin-bottom: 10px;
+    }
+
     .product-grid {
+        gap: 8px;
+    }
+
+    .card-info {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        column-gap: 6px;
+        row-gap: 4px;
+        padding-top: 7px;
+        padding-inline: 8px;
+        margin-bottom: 8px;
+    }
+
+    .card-info > div {
+        min-width: 0;
+    }
+
+    .product-category {
+        font-size: 0.58rem;
+        line-height: 1.1;
+        margin-bottom: 3px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .product-name {
+        font-size: 0.75rem;
+        line-height: 1.2;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: 2.7em;
+    }
+
+    .product-price {
+        font-size: 0.78rem;
+    }
+
+    .btn-buy {
+        margin-inline: 8px;
+        width: calc(100% - 16px);
+        padding: 8px 6px;
+        font-size: 0.58rem;
+        letter-spacing: 0.45px;
+    }
+
+    .product-modal-dialog {
+        width: calc(100vw - 16px);
+        max-height: calc(100vh - 16px);
+        margin: 8px auto;
+        padding: 10px;
+    }
+
+    .product-modal-thumbs {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 6px;
+    }
+
+    .product-modal-spec-row {
         grid-template-columns: 1fr;
+        gap: 4px;
+        padding: 8px 0;
+    }
+
+    .product-modal-spec-label {
+        font-size: 0.75rem;
+    }
+
+    .product-modal-spec-value {
+        font-size: 0.82rem;
     }
 }

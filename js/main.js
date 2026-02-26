@@ -2,7 +2,8 @@ import { catalogStructure } from "./config/catalog-structure.js";
 import { buildFilterMeta, getFilterKey } from "./utils/filters.js";
 import { createCard, buyProduct } from "./ui/cards.js";
 import { renderCatalogMenu } from "./ui/menu.js";
-import { PRODUCTS } from "../data/products.js";
+import { createProductModal } from "./ui/product-modal.js";
+import { PRODUCTS } from "../data/products.js?v=20260226-4";
 
 const productContainer = document.getElementById("product-container");
 const activeFilterLabel = document.getElementById("active-filter-label");
@@ -74,6 +75,7 @@ function mergeCatalogWithData(preferredCatalog, rawProducts) {
 const products = sanitizeProducts(PRODUCTS);
 const effectiveCatalogStructure = mergeCatalogWithData(catalogStructure, products);
 const filterMeta = buildFilterMeta(effectiveCatalogStructure);
+const productModal = createProductModal({ onBuy: buyProduct });
 let activeFilter = "all";
 
 function getFilterFromUrl() {
@@ -142,7 +144,12 @@ function renderProducts() {
     }
 
     filteredProducts.forEach((product) => {
-        productContainer.appendChild(createCard(product, buyProduct));
+        productContainer.appendChild(
+            createCard(product, {
+                onBuy: buyProduct,
+                onOpenDetails: productModal.open
+            })
+        );
     });
 }
 
